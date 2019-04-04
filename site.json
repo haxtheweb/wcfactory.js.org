@@ -6,9 +6,9 @@
     "license": "by-sa",
     "metadata": {
         "siteName": "wcfactory",
-        "domain": "https:\/\/btopro.github.io\/wcfactory",
+        "domain": "https:\/\/wcfactory.js.org",
         "created": 1554401406,
-        "updated": 1554402021,
+        "updated": 1554402437,
         "theme": {
             "element": "learn-two-theme",
             "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
