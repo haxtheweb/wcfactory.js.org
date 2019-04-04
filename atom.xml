@@ -11,7 +11,7 @@
   <entry>
     <title>Home</title>
     <id>https://btopro.github.io/wcfactory/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e</id>
-    <updated>2019-04-04T18:18:12+00:00</updated>
+    <updated>2019-04-04T18:20:21+00:00</updated>
     <published>2019-04-04T18:10:06+00:00</published>
     <summary>WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand...Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustain</summary>
     <link href="https://btopro.github.io/wcfactory/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e"/>
@@ -23,7 +23,7 @@
   <entry>
     <title>Tutorials</title>
     <id>https://btopro.github.io/wcfactory/tutorials</id>
-    <updated>2019-04-04T18:18:12+00:00</updated>
+    <updated>2019-04-04T18:20:21+00:00</updated>
     <published>2019-04-04T18:10:50+00:00</published>
     <summary>Here's a playlist we'll update with videos related to WCfactory</summary>
     <link href="https://btopro.github.io/wcfactory/tutorials"/>
@@ -35,13 +35,25 @@
   <entry>
     <title>Contributing</title>
     <id>https://btopro.github.io/wcfactory/contributing</id>
-    <updated>2019-04-04T18:20:11+00:00</updated>
+    <updated>2019-04-04T18:20:21+00:00</updated>
     <published>2019-04-04T18:10:50+00:00</published>
     <summary>If you'd like to contribute to WCFactory, check out our git repo.If you'd like to contribute to the elements that make up this website, check out our monorepo produced and managed by WCFactory.If </summary>
     <link href="https://btopro.github.io/wcfactory/contributing"/>
     
     <content type="html">
       <![CDATA[ If you'd like to contribute to WCFactory, check out our git repo.If you'd like to contribute to the elements that make up this website, check out our monorepo produced and managed by WCFactory.If  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Terms</title>
+    <id>https://btopro.github.io/wcfactory/terms</id>
+    <updated>2019-04-04T18:20:21+00:00</updated>
+    <published>2019-04-04T18:20:21+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/wcfactory/terms"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
     </content>
   </entry>
 </feed>

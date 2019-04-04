@@ -8,7 +8,7 @@
         "siteName": "wcfactory",
         "domain": "https:\/\/btopro.github.io\/wcfactory",
         "created": 1554401406,
-        "updated": 1554401892,
+        "updated": 1554402021,
         "theme": {
             "element": "learn-two-theme",
             "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
@@ -72,33 +72,46 @@
             "description": "WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand...Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustain",
             "metadata": {
                 "created": 1554401406,
-                "updated": 1554401892
+                "updated": 1554402021
+            }
+        },
+        {
+            "id": "item-4ab9194b-9415-4dfc-9210-47135ab3d2e6",
+            "indent": 0,
+            "location": "pages\/terms\/index.html",
+            "order": 1,
+            "parent": null,
+            "title": "Terms",
+            "description": "",
+            "metadata": {
+                "created": 1554402021,
+                "updated": 1554402021
             }
         },
         {
             "id": "item-74e096de-e77e-4f4f-8ff3-54be423062f8",
             "indent": 0,
             "location": "pages\/tutorials\/index.html",
-            "order": 1,
+            "order": 2,
             "parent": null,
             "title": "Tutorials",
             "description": "Here's a playlist we'll update with videos related to WCfactory",
             "metadata": {
                 "created": 1554401450,
-                "updated": 1554401892
+                "updated": 1554402021
             }
         },
         {
             "id": "item-17420799-6844-4f1b-a5af-09dc9de6dcbf",
             "indent": 0,
             "location": "pages\/contributing\/index.html",
-            "order": 2,
+            "order": 3,
             "parent": null,
             "title": "Contributing",
             "description": "If you'd like to contribute to WCFactory, check out our git repo.If you'd like to contribute to the elements that make up this website, check out our monorepo produced and managed by WCFactory.If ",
             "metadata": {
                 "created": 1554401450,
-                "updated": 1554402011
+                "updated": 1554402021
             }
         }
     ]
