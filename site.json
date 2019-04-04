@@ -8,7 +8,7 @@
         "siteName": "wcfactory",
         "domain": "https:\/\/btopro.github.io\/wcfactory",
         "created": 1554401406,
-        "updated": 1554401467,
+        "updated": 1554401892,
         "theme": {
             "element": "learn-two-theme",
             "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
@@ -72,7 +72,7 @@
             "description": "WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand...Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustain",
             "metadata": {
                 "created": 1554401406,
-                "updated": 1554401887
+                "updated": 1554401892
             }
         },
         {
@@ -85,7 +85,7 @@
             "description": "Here's a playlist we'll update with videos related to WCfactory",
             "metadata": {
                 "created": 1554401450,
-                "updated": 1554401576
+                "updated": 1554401892
             }
         },
         {
@@ -98,7 +98,7 @@
             "description": "",
             "metadata": {
                 "created": 1554401450,
-                "updated": 1554401450
+                "updated": 1554401892
             }
         },
         {
