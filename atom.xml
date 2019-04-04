@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>wcfactory</title>
   <link href="https://btopro.github.io/wcfactory/atom.xml" rel="self" />
-  <subtitle></subtitle>
+  <subtitle>Documentation and tutorials on using WCFactory</subtitle>
   <updated>2019-04-04T18:10:06+00:00</updated>
   <author>
       <name></name>
   </author>
   <id>https://btopro.github.io/wcfactory/feed</id>
   <entry>
-    <title>New page</title>
+    <title>Home</title>
     <id>https://btopro.github.io/wcfactory/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e</id>
-    <updated>2019-04-04T18:10:06+00:00</updated>
+    <updated>2019-04-04T18:10:50+00:00</updated>
     <published>2019-04-04T18:10:06+00:00</published>
     <summary></summary>
     <link href="https://btopro.github.io/wcfactory/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e"/>

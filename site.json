@@ -8,7 +8,7 @@
         "siteName": "wcfactory",
         "domain": "https:\/\/btopro.github.io\/wcfactory",
         "created": 1554401406,
-        "updated": 1554401406,
+        "updated": 1554401450,
         "theme": {
             "element": "haxcms-basic-theme",
             "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
@@ -68,13 +68,51 @@
             "location": "pages\/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e\/index.html",
             "order": 0,
             "parent": null,
-            "title": "New page",
+            "title": "Home",
             "description": "",
             "metadata": {
                 "created": 1554401406,
-                "updated": 1554401406
+                "updated": 1554401450
+            }
+        },
+        {
+            "id": "item-74e096de-e77e-4f4f-8ff3-54be423062f8",
+            "indent": 0,
+            "location": "pages\/tutorials\/index.html",
+            "order": 1,
+            "parent": null,
+            "title": "Tutorials",
+            "description": "",
+            "metadata": {
+                "created": 1554401450,
+                "updated": 1554401450
+            }
+        },
+        {
+            "id": "item-17420799-6844-4f1b-a5af-09dc9de6dcbf",
+            "indent": 0,
+            "location": "pages\/contributing\/index.html",
+            "order": 2,
+            "parent": null,
+            "title": "Contributing",
+            "description": "",
+            "metadata": {
+                "created": 1554401450,
+                "updated": 1554401450
+            }
+        },
+        {
+            "id": "item-ae48819e-9ee1-45f8-a8f4-ab45aa79fad4",
+            "indent": 0,
+            "location": "pages\/examples\/index.html",
+            "order": 3,
+            "parent": null,
+            "title": "Examples",
+            "description": "",
+            "metadata": {
+                "created": 1554401450,
+                "updated": 1554401450
             }
         }
-    ],
-    "location": "\/_sites\/wcfactory\/index.html"
+    ]
 }

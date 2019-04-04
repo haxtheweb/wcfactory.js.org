@@ -3,13 +3,13 @@
   <channel>
     <title>wcfactory</title>
     <link>https://btopro.github.io/wcfactory/rss.xml</link>
-    <description></description>
+    <description>Documentation and tutorials on using WCFactory</description>
     <copyright>Copyright (C) 2019 https://btopro.github.io/wcfactory</copyright>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Apr 2019 18:10:06 +0000</lastBuildDate>
     <atom:link href="https://btopro.github.io/wcfactory/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>New page</title>
+      <title>Home</title>
       <link>https://btopro.github.io/wcfactory/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e</link>
       <description>
           <![CDATA[  ]]>
