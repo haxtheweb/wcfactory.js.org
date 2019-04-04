@@ -82,10 +82,10 @@
             "order": 1,
             "parent": null,
             "title": "Terms",
-            "description": "",
+            "description": "Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Monor",
             "metadata": {
                 "created": 1554402021,
-                "updated": 1554402021
+                "updated": 1554402234
             }
         },
         {

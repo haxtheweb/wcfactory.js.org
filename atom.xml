@@ -3,7 +3,7 @@
   <title>wcfactory</title>
   <link href="https://btopro.github.io/wcfactory/atom.xml" rel="self" />
   <subtitle>Documentation and tutorials on using WCFactory</subtitle>
-  <updated>2019-04-04T18:18:12+00:00</updated>
+  <updated>2019-04-04T18:20:21+00:00</updated>
   <author>
       <name></name>
   </author>
@@ -18,6 +18,18 @@
     
     <content type="html">
       <![CDATA[ WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand...Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustain ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Terms</title>
+    <id>https://btopro.github.io/wcfactory/terms</id>
+    <updated>2019-04-04T18:23:54+00:00</updated>
+    <published>2019-04-04T18:20:21+00:00</published>
+    <summary>Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Monor</summary>
+    <link href="https://btopro.github.io/wcfactory/terms"/>
+    
+    <content type="html">
+      <![CDATA[ Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Monor ]]>
     </content>
   </entry>
   <entry>
@@ -42,18 +54,6 @@
     
     <content type="html">
       <![CDATA[ If you'd like to contribute to WCFactory, check out our git repo.If you'd like to contribute to the elements that make up this website, check out our monorepo produced and managed by WCFactory.If  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Terms</title>
-    <id>https://btopro.github.io/wcfactory/terms</id>
-    <updated>2019-04-04T18:20:21+00:00</updated>
-    <published>2019-04-04T18:20:21+00:00</published>
-    <summary></summary>
-    <link href="https://btopro.github.io/wcfactory/terms"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
     </content>
   </entry>
 </feed>

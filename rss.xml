@@ -6,7 +6,7 @@
     <description>Documentation and tutorials on using WCFactory</description>
     <copyright>Copyright (C) 2019 https://btopro.github.io/wcfactory</copyright>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Apr 2019 18:18:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2019 18:20:21 +0000</lastBuildDate>
     <atom:link href="https://btopro.github.io/wcfactory/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Home</title>
@@ -17,6 +17,16 @@
       <category></category>
       <guid>https://btopro.github.io/wcfactory/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e</guid>
       <pubDate>Fri, 04 Apr 1406 15:54:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Terms</title>
+      <link>https://btopro.github.io/wcfactory/terms</link>
+      <description>
+          <![CDATA[ Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Monor ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.github.io/wcfactory/terms</guid>
+      <pubDate>Sun, 04 Apr 2021 15:54:40 +0000</pubDate>
     </item>
     <item>
       <title>Tutorials</title>
@@ -37,16 +47,6 @@
       <category></category>
       <guid>https://btopro.github.io/wcfactory/contributing</guid>
       <pubDate>Thu, 04 Apr 1450 15:54:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Terms</title>
-      <link>https://btopro.github.io/wcfactory/terms</link>
-      <description>
-          <![CDATA[  ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.github.io/wcfactory/terms</guid>
-      <pubDate>Sun, 04 Apr 2021 15:54:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
