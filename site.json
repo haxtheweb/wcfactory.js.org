@@ -69,10 +69,10 @@
             "order": 0,
             "parent": null,
             "title": "Home",
-            "description": "",
+            "description": "WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand...Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustain",
             "metadata": {
                 "created": 1554401406,
-                "updated": 1554401450
+                "updated": 1554401887
             }
         },
         {
