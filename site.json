@@ -100,19 +100,6 @@
                 "created": 1554401450,
                 "updated": 1554401892
             }
-        },
-        {
-            "id": "item-ae48819e-9ee1-45f8-a8f4-ab45aa79fad4",
-            "indent": 0,
-            "location": "pages\/examples\/index.html",
-            "order": 3,
-            "parent": null,
-            "title": "Examples",
-            "description": "",
-            "metadata": {
-                "created": 1554401450,
-                "updated": 1554401450
-            }
         }
     ]
 }

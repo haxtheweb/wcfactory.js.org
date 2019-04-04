@@ -3,7 +3,7 @@
   <title>wcfactory</title>
   <link href="https://btopro.github.io/wcfactory/atom.xml" rel="self" />
   <subtitle>Documentation and tutorials on using WCFactory</subtitle>
-  <updated>2019-04-04T18:11:07+00:00</updated>
+  <updated>2019-04-04T18:18:12+00:00</updated>
   <author>
       <name></name>
   </author>
@@ -39,18 +39,6 @@
     <published>2019-04-04T18:10:50+00:00</published>
     <summary></summary>
     <link href="https://btopro.github.io/wcfactory/contributing"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Examples</title>
-    <id>https://btopro.github.io/wcfactory/examples</id>
-    <updated>2019-04-04T18:10:50+00:00</updated>
-    <published>2019-04-04T18:10:50+00:00</published>
-    <summary></summary>
-    <link href="https://btopro.github.io/wcfactory/examples"/>
     
     <content type="html">
       <![CDATA[  ]]>
