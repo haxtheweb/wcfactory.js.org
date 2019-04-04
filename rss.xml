@@ -6,7 +6,7 @@
     <description>Documentation and tutorials on using WCFactory</description>
     <copyright>Copyright (C) 2019 https://btopro.github.io/wcfactory</copyright>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Apr 2019 18:10:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2019 18:11:07 +0000</lastBuildDate>
     <atom:link href="https://btopro.github.io/wcfactory/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Home</title>
@@ -17,6 +17,36 @@
       <category></category>
       <guid>https://btopro.github.io/wcfactory/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e</guid>
       <pubDate>Fri, 04 Apr 1406 15:54:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tutorials</title>
+      <link>https://btopro.github.io/wcfactory/tutorials</link>
+      <description>
+          <![CDATA[ Here's a playlist we'll update with videos related to WCfactory ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.github.io/wcfactory/tutorials</guid>
+      <pubDate>Thu, 04 Apr 1450 15:54:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Contributing</title>
+      <link>https://btopro.github.io/wcfactory/contributing</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.github.io/wcfactory/contributing</guid>
+      <pubDate>Thu, 04 Apr 1450 15:54:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Examples</title>
+      <link>https://btopro.github.io/wcfactory/examples</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.github.io/wcfactory/examples</guid>
+      <pubDate>Thu, 04 Apr 1450 15:54:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
