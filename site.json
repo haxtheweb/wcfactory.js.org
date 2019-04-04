@@ -8,15 +8,15 @@
         "siteName": "wcfactory",
         "domain": "https:\/\/btopro.github.io\/wcfactory",
         "created": 1554401406,
-        "updated": 1554401450,
+        "updated": 1554401467,
         "theme": {
-            "element": "haxcms-basic-theme",
-            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
-            "name": "Basic site"
+            "element": "learn-two-theme",
+            "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
+            "name": "Learn"
         },
         "image": "assets\/banner.jpg",
-        "hexCode": "#aeff00",
-        "cssVariable": "--simple-colors-default-theme-light-blue-7",
+        "hexCode": "#009d75",
+        "cssVariable": "teal",
         "publishing": {
             "git": {
                 "vendor": "github",
