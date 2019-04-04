@@ -23,13 +23,13 @@
   <entry>
     <title>Terms</title>
     <id>https://btopro.github.io/wcfactory/terms</id>
-    <updated>2019-04-04T18:23:54+00:00</updated>
+    <updated>2019-04-04T18:26:47+00:00</updated>
     <published>2019-04-04T18:20:21+00:00</published>
-    <summary>Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Monor</summary>
+    <summary>Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Mono</summary>
     <link href="https://btopro.github.io/wcfactory/terms"/>
     
     <content type="html">
-      <![CDATA[ Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Monor ]]>
+      <![CDATA[ Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Mono ]]>
     </content>
   </entry>
   <entry>
