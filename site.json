@@ -95,10 +95,10 @@
             "order": 2,
             "parent": null,
             "title": "Contributing",
-            "description": "",
+            "description": "If you'd like to contribute to WCFactory, check out our git repo.If you'd like to contribute to the elements that make up this website, check out our monorepo produced and managed by WCFactory.If ",
             "metadata": {
                 "created": 1554401450,
-                "updated": 1554401892
+                "updated": 1554402011
             }
         }
     ]

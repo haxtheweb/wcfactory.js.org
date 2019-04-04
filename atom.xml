@@ -35,13 +35,13 @@
   <entry>
     <title>Contributing</title>
     <id>https://btopro.github.io/wcfactory/contributing</id>
-    <updated>2019-04-04T18:18:12+00:00</updated>
+    <updated>2019-04-04T18:20:11+00:00</updated>
     <published>2019-04-04T18:10:50+00:00</published>
-    <summary></summary>
+    <summary>If you'd like to contribute to WCFactory, check out our git repo.If you'd like to contribute to the elements that make up this website, check out our monorepo produced and managed by WCFactory.If </summary>
     <link href="https://btopro.github.io/wcfactory/contributing"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ If you'd like to contribute to WCFactory, check out our git repo.If you'd like to contribute to the elements that make up this website, check out our monorepo produced and managed by WCFactory.If  ]]>
     </content>
   </entry>
 </feed>
