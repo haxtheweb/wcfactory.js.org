@@ -8,11 +8,11 @@
         "siteName": "wcfactory",
         "domain": "https:\/\/wcfactory.js.org",
         "created": 1554401406,
-        "updated": 1554402437,
+        "updated": 1554492278,
         "theme": {
-            "element": "learn-two-theme",
-            "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
-            "name": "Learn"
+            "element": "outline-player",
+            "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
+            "name": "Documentation"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#009d75",
