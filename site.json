@@ -123,10 +123,10 @@
             "order": 4,
             "parent": null,
             "title": "FAQ",
-            "description": "",
+            "description": "There's a lot going on here, can't you make this easier?We're working on a UI that helps in running the commands but organizing and managing a company library \/ brand for your organization is tricky.",
             "metadata": {
                 "created": 1554874757,
-                "updated": 1554874757
+                "updated": 1554875477
             }
         }
     ]

@@ -6,7 +6,7 @@
     <description>Documentation and tutorials on using WCFactory</description>
     <copyright>Copyright (C) 2019 https://wcfactory.js.org</copyright>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Apr 2019 19:24:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2019 05:39:17 +0000</lastBuildDate>
     <atom:link href="https://wcfactory.js.org/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Home</title>
@@ -47,6 +47,16 @@
       <category></category>
       <guid>https://wcfactory.js.org/contributing</guid>
       <pubDate>Wed, 10 Apr 1450 15:54:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>FAQ</title>
+      <link>https://wcfactory.js.org/faq</link>
+      <description>
+          <![CDATA[ There's a lot going on here, can't you make this easier?We're working on a UI that helps in running the commands but organizing and managing a company library / brand for your organization is tricky. ]]>
+      </description>
+      <category></category>
+      <guid>https://wcfactory.js.org/faq</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
