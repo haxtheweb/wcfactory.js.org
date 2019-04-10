@@ -54,13 +54,14 @@
             "stop-note": "@lrnwebcomponents\/stop-note\/stop-note.js",
             "tab-list": "@lrnwebcomponents\/tab-list\/tab-list.js",
             "task-list": "@lrnwebcomponents\/task-list\/task-list.js",
+            "code-sample": "@lrnwebcomponents\/code-sample\/code-sample.js",
             "video-player": "@lrnwebcomponents\/video-player\/video-player.js",
             "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
             "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js",
             "lrndesign-gallery": "@lrnwebcomponents\/lrndesign-gallery\/lrndesign-gallery.js",
             "lrndesign-timeline": "@lrnwebcomponents\/lrndesign-timeline\/lrndesign-timeline.js"
         },
-        "lastPublished": 1554875494,
+        "lastPublished": 1554877047,
         "publishedLocation": "https:\/\/wcfactory.js.org"
     },
     "items": [
