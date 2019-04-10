@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>wcfactory</title>
-  <link href="https://btopro.github.io/wcfactory/atom.xml" rel="self" />
+  <link href="https://wcfactory.js.org/atom.xml" rel="self" />
   <subtitle>Documentation and tutorials on using WCFactory</subtitle>
-  <updated>2019-04-04T18:20:21+00:00</updated>
+  <updated>2019-04-05T19:24:38+00:00</updated>
   <author>
       <name></name>
   </author>
-  <id>https://btopro.github.io/wcfactory/feed</id>
+  <id>https://wcfactory.js.org/feed</id>
   <entry>
     <title>Home</title>
-    <id>https://btopro.github.io/wcfactory/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e</id>
-    <updated>2019-04-04T18:20:21+00:00</updated>
+    <id>https://wcfactory.js.org/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e</id>
+    <updated>2019-04-10T05:39:17+00:00</updated>
     <published>2019-04-04T18:10:06+00:00</published>
     <summary>WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand...Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustain</summary>
-    <link href="https://btopro.github.io/wcfactory/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e"/>
+    <link href="https://wcfactory.js.org/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e"/>
     
     <content type="html">
       <![CDATA[ WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand...Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustain ]]>
@@ -22,11 +22,11 @@
   </entry>
   <entry>
     <title>Terms</title>
-    <id>https://btopro.github.io/wcfactory/terms</id>
-    <updated>2019-04-04T18:26:47+00:00</updated>
+    <id>https://wcfactory.js.org/terms</id>
+    <updated>2019-04-10T05:39:17+00:00</updated>
     <published>2019-04-04T18:20:21+00:00</published>
     <summary>Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Mono</summary>
-    <link href="https://btopro.github.io/wcfactory/terms"/>
+    <link href="https://wcfactory.js.org/terms"/>
     
     <content type="html">
       <![CDATA[ Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Mono ]]>
@@ -34,11 +34,11 @@
   </entry>
   <entry>
     <title>Tutorials</title>
-    <id>https://btopro.github.io/wcfactory/tutorials</id>
-    <updated>2019-04-04T18:20:21+00:00</updated>
+    <id>https://wcfactory.js.org/tutorials</id>
+    <updated>2019-04-10T05:39:17+00:00</updated>
     <published>2019-04-04T18:10:50+00:00</published>
     <summary>Here's a playlist we'll update with videos related to WCfactory</summary>
-    <link href="https://btopro.github.io/wcfactory/tutorials"/>
+    <link href="https://wcfactory.js.org/tutorials"/>
     
     <content type="html">
       <![CDATA[ Here's a playlist we'll update with videos related to WCfactory ]]>
@@ -46,11 +46,11 @@
   </entry>
   <entry>
     <title>Contributing</title>
-    <id>https://btopro.github.io/wcfactory/contributing</id>
-    <updated>2019-04-04T18:20:21+00:00</updated>
+    <id>https://wcfactory.js.org/contributing</id>
+    <updated>2019-04-10T05:39:17+00:00</updated>
     <published>2019-04-04T18:10:50+00:00</published>
     <summary>If you'd like to contribute to WCFactory, check out our git repo.If you'd like to contribute to the elements that make up this website, check out our monorepo produced and managed by WCFactory.If </summary>
-    <link href="https://btopro.github.io/wcfactory/contributing"/>
+    <link href="https://wcfactory.js.org/contributing"/>
     
     <content type="html">
       <![CDATA[ If you'd like to contribute to WCFactory, check out our git repo.If you'd like to contribute to the elements that make up this website, check out our monorepo produced and managed by WCFactory.If  ]]>

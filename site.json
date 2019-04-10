@@ -8,7 +8,7 @@
         "siteName": "wcfactory",
         "domain": "https:\/\/wcfactory.js.org",
         "created": 1554401406,
-        "updated": 1554492278,
+        "updated": 1554874757,
         "theme": {
             "element": "outline-player",
             "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
@@ -74,7 +74,7 @@
             "description": "WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand...Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustain",
             "metadata": {
                 "created": 1554401406,
-                "updated": 1554402021
+                "updated": 1554874757
             }
         },
         {
@@ -87,7 +87,7 @@
             "description": "Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Mono",
             "metadata": {
                 "created": 1554402021,
-                "updated": 1554402407
+                "updated": 1554874757
             }
         },
         {
@@ -100,7 +100,7 @@
             "description": "Here's a playlist we'll update with videos related to WCfactory",
             "metadata": {
                 "created": 1554401450,
-                "updated": 1554402021
+                "updated": 1554874757
             }
         },
         {
@@ -113,7 +113,20 @@
             "description": "If you'd like to contribute to WCFactory, check out our git repo.If you'd like to contribute to the elements that make up this website, check out our monorepo produced and managed by WCFactory.If ",
             "metadata": {
                 "created": 1554401450,
-                "updated": 1554402021
+                "updated": 1554874757
+            }
+        },
+        {
+            "id": "item-0fc85070-f275-4029-a8fd-dba1502e8664",
+            "indent": 0,
+            "location": "pages\/faq\/index.html",
+            "order": 4,
+            "parent": null,
+            "title": "FAQ",
+            "description": "",
+            "metadata": {
+                "created": 1554874757,
+                "updated": 1554874757
             }
         }
     ]
