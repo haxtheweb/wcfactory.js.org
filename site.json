@@ -137,10 +137,10 @@
             "order": 5,
             "parent": null,
             "title": "Workflow",
-            "description": "",
+            "description": "wcf elementWhen it's finished, go into the elements\/element-name directory and run yarn start. Then open it in a code editor and work within the elements\/element-name\/src directoryyarn start (mo",
             "metadata": {
                 "created": 1556026848,
-                "updated": 1556026848
+                "updated": 1556026984
             }
         }
     ]
