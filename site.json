@@ -75,7 +75,17 @@
             "description": "",
             "metadata": {
                 "created": 1556152010,
-                "updated": 1556152010
+                "updated": 1556152010,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/wcfactory\/files\/scale-50\/foldertree.jpg",
+                        "fullUrl": "\/_sites\/wcfactory\/files\/scale-50\/foldertree.jpg",
+                        "url": "files\/scale-50\/foldertree.jpg",
+                        "type": "image\/jpeg",
+                        "name": "foldertree.jpg",
+                        "size": 143823
+                    }
+                ]
             }
         },
         {

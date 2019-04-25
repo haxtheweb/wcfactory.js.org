@@ -3,11 +3,23 @@
   <title>wcfactory</title>
   <link href="https://wcfactory.js.org/atom.xml" rel="self" />
   <subtitle>Documentation and tutorials on using WCFactory</subtitle>
-  <updated>2019-04-23T13:40:48+00:00</updated>
+  <updated>2019-04-25T00:26:50+00:00</updated>
   <author>
       <name></name>
   </author>
   <id>https://wcfactory.js.org/feed</id>
+  <entry>
+    <title>Adding new elements</title>
+    <id>https://wcfactory.js.org/adding-new-elements</id>
+    <updated>2019-04-25T00:26:50+00:00</updated>
+    <published>2019-04-25T00:26:50+00:00</published>
+    <summary></summary>
+    <link href="https://wcfactory.js.org/adding-new-elements"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
   <entry>
     <title>Home</title>
     <id>https://wcfactory.js.org/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e</id>
@@ -30,6 +42,18 @@
     
     <content type="html">
       <![CDATA[ Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Mono ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Using existing web components</title>
+    <id>https://wcfactory.js.org/using-existing-web-components</id>
+    <updated>2019-04-25T00:26:50+00:00</updated>
+    <published>2019-04-25T00:26:50+00:00</published>
+    <summary></summary>
+    <link href="https://wcfactory.js.org/using-existing-web-components"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
     </content>
   </entry>
   <entry>
@@ -78,30 +102,6 @@
     
     <content type="html">
       <![CDATA[ wcf elementWhen it's finished, go into the elements/element-name directory and run yarn start. Then open it in a code editor and work within the elements/element-name/src directoryyarn start (mo ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Adding new elements</title>
-    <id>https://wcfactory.js.org/adding-new-elements</id>
-    <updated>2019-04-25T00:26:50+00:00</updated>
-    <published>2019-04-25T00:26:50+00:00</published>
-    <summary></summary>
-    <link href="https://wcfactory.js.org/adding-new-elements"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Using existing web components</title>
-    <id>https://wcfactory.js.org/using-existing-web-components</id>
-    <updated>2019-04-25T00:26:50+00:00</updated>
-    <published>2019-04-25T00:26:50+00:00</published>
-    <summary></summary>
-    <link href="https://wcfactory.js.org/using-existing-web-components"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
     </content>
   </entry>
 </feed>

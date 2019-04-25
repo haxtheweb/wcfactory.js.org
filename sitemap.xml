@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator="icamys/SitemapGenerator/1.0.0" -->
 <!-- sitemap-generator-version="1.0.0" -->
-<!-- generated-on="2019-04-25T00:26:50+00:00" -->
+<!-- generated-on="2019-04-25T00:29:23+00:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9                                  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://wcfactory.js.org/adding-new-elements</loc>
+    <lastmod>2019-04-25T00:26:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
   <url>
     <loc>https://wcfactory.js.org/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e</loc>
     <lastmod>2019-04-25T00:26:50+00:00</lastmod>
@@ -14,6 +20,12 @@
     <lastmod>2019-04-25T00:26:50+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://wcfactory.js.org/using-existing-web-components</loc>
+    <lastmod>2019-04-25T00:26:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wcfactory.js.org/tutorials</loc>
@@ -38,17 +50,5 @@
     <lastmod>2019-04-25T00:26:50+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://wcfactory.js.org/adding-new-elements</loc>
-    <lastmod>2019-04-25T00:26:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wcfactory.js.org/using-existing-web-components</loc>
-    <lastmod>2019-04-25T00:26:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
