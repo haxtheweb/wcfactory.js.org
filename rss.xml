@@ -9,7 +9,7 @@
     <lastBuildDate>Thu, 25 Apr 2019 00:26:50 +0000</lastBuildDate>
     <atom:link href="https://wcfactory.js.org/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Multiple components in one element</title>
+      <title>Multiple components per element</title>
       <link>https://wcfactory.js.org/multiple-components-1-element</link>
       <description>
           <![CDATA[ Let&#39;s say you&#39;ve made an element and now you want to add another one.If the element is related or integral to the success of the first element, you might want to consider grouping it in the same &#34;ele ]]>
