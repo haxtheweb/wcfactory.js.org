@@ -11,7 +11,7 @@
   <entry>
     <title>Home</title>
     <id>https://wcfactory.js.org/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e</id>
-    <updated>2019-04-23T13:40:48+00:00</updated>
+    <updated>2019-04-25T00:26:50+00:00</updated>
     <published>2019-04-04T18:10:06+00:00</published>
     <summary>WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand...Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustain</summary>
     <link href="https://wcfactory.js.org/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e"/>
@@ -23,7 +23,7 @@
   <entry>
     <title>Terms</title>
     <id>https://wcfactory.js.org/terms</id>
-    <updated>2019-04-23T13:40:48+00:00</updated>
+    <updated>2019-04-25T00:26:50+00:00</updated>
     <published>2019-04-04T18:20:21+00:00</published>
     <summary>Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Mono</summary>
     <link href="https://wcfactory.js.org/terms"/>
@@ -35,7 +35,7 @@
   <entry>
     <title>Tutorials</title>
     <id>https://wcfactory.js.org/tutorials</id>
-    <updated>2019-04-23T13:40:48+00:00</updated>
+    <updated>2019-04-25T00:26:50+00:00</updated>
     <published>2019-04-04T18:10:50+00:00</published>
     <summary>Here's a playlist we'll update with videos related to WCfactory</summary>
     <link href="https://wcfactory.js.org/tutorials"/>
@@ -47,7 +47,7 @@
   <entry>
     <title>Contributing</title>
     <id>https://wcfactory.js.org/contributing</id>
-    <updated>2019-04-23T13:40:48+00:00</updated>
+    <updated>2019-04-25T00:26:50+00:00</updated>
     <published>2019-04-04T18:10:50+00:00</published>
     <summary>If you'd like to contribute to WCFactory, check out our git repo.If you'd like to contribute to the elements that make up this website, check out our monorepo produced and managed by WCFactory.If </summary>
     <link href="https://wcfactory.js.org/contributing"/>
@@ -59,7 +59,7 @@
   <entry>
     <title>FAQ</title>
     <id>https://wcfactory.js.org/faq</id>
-    <updated>2019-04-23T13:40:48+00:00</updated>
+    <updated>2019-04-25T00:26:50+00:00</updated>
     <published>2019-04-10T05:39:17+00:00</published>
     <summary>There's a lot going on here, can't you make this easier?We're working on a UI that helps in running the commands but organizing and managing a company library / brand for your organization is tricky.</summary>
     <link href="https://wcfactory.js.org/faq"/>
@@ -71,13 +71,37 @@
   <entry>
     <title>Workflow</title>
     <id>https://wcfactory.js.org/workflow</id>
-    <updated>2019-04-23T13:43:04+00:00</updated>
+    <updated>2019-04-25T00:26:50+00:00</updated>
     <published>2019-04-23T13:40:48+00:00</published>
     <summary>wcf elementWhen it's finished, go into the elements/element-name directory and run yarn start. Then open it in a code editor and work within the elements/element-name/src directoryyarn start (mo</summary>
     <link href="https://wcfactory.js.org/workflow"/>
     
     <content type="html">
       <![CDATA[ wcf elementWhen it's finished, go into the elements/element-name directory and run yarn start. Then open it in a code editor and work within the elements/element-name/src directoryyarn start (mo ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Adding new elements</title>
+    <id>https://wcfactory.js.org/adding-new-elements</id>
+    <updated>2019-04-25T00:26:50+00:00</updated>
+    <published>2019-04-25T00:26:50+00:00</published>
+    <summary></summary>
+    <link href="https://wcfactory.js.org/adding-new-elements"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Using existing web components</title>
+    <id>https://wcfactory.js.org/using-existing-web-components</id>
+    <updated>2019-04-25T00:26:50+00:00</updated>
+    <published>2019-04-25T00:26:50+00:00</published>
+    <summary></summary>
+    <link href="https://wcfactory.js.org/using-existing-web-components"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
     </content>
   </entry>
 </feed>
