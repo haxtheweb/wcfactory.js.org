@@ -9,15 +9,15 @@
   </author>
   <id>https://wcfactory.js.org/feed</id>
   <entry>
-    <title>Adding new elements</title>
-    <id>https://wcfactory.js.org/adding-new-elements</id>
-    <updated>2019-04-25T00:31:51+00:00</updated>
+    <title>Multiple components in one &#34;element&#34;</title>
+    <id>https://wcfactory.js.org/multiple-components-1-element</id>
+    <updated>2019-04-25T00:32:17+00:00</updated>
     <published>2019-04-25T00:26:50+00:00</published>
-    <summary>Let's say you've made an element and now you want to add another one.If the element is related or integral to the success of the first element, you might want to consider grouping it in the same "ele</summary>
-    <link href="https://wcfactory.js.org/adding-new-elements"/>
+    <summary>Let&#39;s say you&#39;ve made an element and now you want to add another one.If the element is related or integral to the success of the first element, you might want to consider grouping it in the same &#34;ele</summary>
+    <link href="https://wcfactory.js.org/multiple-components-1-element"/>
     
     <content type="html">
-      <![CDATA[ Let's say you've made an element and now you want to add another one.If the element is related or integral to the success of the first element, you might want to consider grouping it in the same "ele ]]>
+      <![CDATA[ Let&#39;s say you&#39;ve made an element and now you want to add another one.If the element is related or integral to the success of the first element, you might want to consider grouping it in the same &#34;ele ]]>
     </content>
   </entry>
   <entry>
