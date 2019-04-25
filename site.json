@@ -71,11 +71,11 @@
             "location": "pages\/multiple-components-1-element\/index.html",
             "order": 0,
             "parent": "item-74e096de-e77e-4f4f-8ff3-54be423062f8",
-            "title": "Multiple components in one &#34;element&#34;",
+            "title": "Multiple components in one element",
             "description": "Let&#39;s say you&#39;ve made an element and now you want to add another one.If the element is related or integral to the success of the first element, you might want to consider grouping it in the same &#34;ele",
             "metadata": {
                 "created": 1556152010,
-                "updated": 1556152337,
+                "updated": 1556152345,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/wcfactory\/files\/scale-50\/foldertree.jpg",
