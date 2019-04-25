@@ -47,13 +47,13 @@
   <entry>
     <title>Using existing web components</title>
     <id>https://wcfactory.js.org/using-existing-web-components</id>
-    <updated>2019-04-25T00:26:50+00:00</updated>
+    <updated>2019-04-25T00:33:30+00:00</updated>
     <published>2019-04-25T00:26:50+00:00</published>
-    <summary></summary>
+    <summary>So you want to leverage all that goodness from web components [dot] org huh? Awesome! There's a minor thing you need to do differently from typical yarn repos you might be used to.Because this is a m</summary>
     <link href="https://wcfactory.js.org/using-existing-web-components"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ So you want to leverage all that goodness from web components [dot] org huh? Awesome! There's a minor thing you need to do differently from typical yarn repos you might be used to.Because this is a m ]]>
     </content>
   </entry>
   <entry>

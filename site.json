@@ -122,10 +122,11 @@
             "order": 1,
             "parent": "item-74e096de-e77e-4f4f-8ff3-54be423062f8",
             "title": "Using existing web components",
-            "description": "",
+            "description": "So you want to leverage all that goodness from web components [dot] org huh? Awesome! There's a minor thing you need to do differently from typical yarn repos you might be used to.Because this is a m",
             "metadata": {
                 "created": 1556152010,
-                "updated": 1556152010
+                "updated": 1556152410,
+                "wordcount": 1
             }
         },
         {
