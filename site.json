@@ -8,7 +8,7 @@
         "siteName": "wcfactory",
         "domain": "https:\/\/wcfactory.js.org",
         "created": 1554401406,
-        "updated": 1556294366,
+        "updated": 1556294555,
         "theme": {
             "element": "haxcms-minimalist-theme",
             "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-minimalist-theme.js",
@@ -66,19 +66,6 @@
     },
     "items": [
         {
-            "id": "item-74e096de-e77e-4f4f-8ff3-54be423062f8",
-            "indent": 1,
-            "location": "pages\/tutorials\/index.html",
-            "order": 0,
-            "parent": "item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e",
-            "title": "Tutorials",
-            "description": "Here's a playlist we'll update with videos related to WCfactory",
-            "metadata": {
-                "created": 1554401450,
-                "updated": 1556294366
-            }
-        },
-        {
             "id": "item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e",
             "indent": 0,
             "location": "pages\/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e\/index.html",
@@ -88,20 +75,20 @@
             "description": "WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand...Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustain",
             "metadata": {
                 "created": 1554401406,
-                "updated": 1556294366
+                "updated": 1556294555
             }
         },
         {
             "id": "item-baaa72c0-44da-4519-848c-18bbea9a3e81",
             "indent": 1,
             "location": "pages\/multiple-components-1-element\/index.html",
-            "order": 1,
-            "parent": "item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e",
+            "order": 0,
+            "parent": "item-74e096de-e77e-4f4f-8ff3-54be423062f8",
             "title": "Multiple components per element",
             "description": "Let&#39;s say you&#39;ve made an element and now you want to add another one.If the element is related or integral to the success of the first element, you might want to consider grouping it in the same &#34;ele",
             "metadata": {
                 "created": 1556152010,
-                "updated": 1556294366,
+                "updated": 1556294555,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/wcfactory\/files\/scale-50\/foldertree.jpg",
@@ -116,69 +103,82 @@
             }
         },
         {
-            "id": "item-4ab9194b-9415-4dfc-9210-47135ab3d2e6",
+            "id": "item-74e096de-e77e-4f4f-8ff3-54be423062f8",
             "indent": 0,
-            "location": "pages\/terms\/index.html",
+            "location": "pages\/tutorials\/index.html",
             "order": 1,
             "parent": null,
-            "title": "Terms",
-            "description": "Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Mono",
+            "title": "Tutorials",
+            "description": "Here's a playlist we'll update with videos related to WCfactory",
             "metadata": {
-                "created": 1554402021,
-                "updated": 1556294366
+                "created": 1554401450,
+                "updated": 1556294555
             }
         },
         {
             "id": "item-326e081f-697b-4a33-8ed7-b7edaed5b66e",
             "indent": 1,
             "location": "pages\/using-existing-web-components\/index.html",
-            "order": 2,
-            "parent": "item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e",
+            "order": 1,
+            "parent": "item-74e096de-e77e-4f4f-8ff3-54be423062f8",
             "title": "Using existing web components",
             "description": "So you want to leverage all that goodness from web components [dot] org huh? Awesome! There's a minor thing you need to do differently from typical yarn repos you might be used to.Because this is a m",
             "metadata": {
                 "created": 1556152010,
-                "updated": 1556294366,
+                "updated": 1556294555,
                 "wordcount": 1
+            }
+        },
+        {
+            "id": "item-4ab9194b-9415-4dfc-9210-47135ab3d2e6",
+            "indent": 0,
+            "location": "pages\/terms\/index.html",
+            "order": 2,
+            "parent": null,
+            "title": "Terms",
+            "description": "Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Mono",
+            "metadata": {
+                "created": 1554402021,
+                "updated": 1556294555
             }
         },
         {
             "id": "item-17420799-6844-4f1b-a5af-09dc9de6dcbf",
             "indent": 0,
             "location": "pages\/contributing\/index.html",
-            "order": 2,
+            "order": 3,
             "parent": null,
             "title": "Contributing",
             "description": "If you'd like to contribute to WCFactory, check out our git repo.If you'd like to contribute to the elements that make up this website, check out our monorepo produced and managed by WCFactory.If ",
             "metadata": {
                 "created": 1554401450,
-                "updated": 1556294366
+                "updated": 1556294555
             }
         },
         {
             "id": "item-0fc85070-f275-4029-a8fd-dba1502e8664",
             "indent": 0,
             "location": "pages\/faq\/index.html",
-            "order": 3,
+            "order": 4,
             "parent": null,
             "title": "FAQ",
             "description": "There's a lot going on here, can't you make this easier?We're working on a UI that helps in running the commands but organizing and managing a company library \/ brand for your organization is tricky.",
             "metadata": {
                 "created": 1554874757,
-                "updated": 1556294366
+                "updated": 1556294555
             }
         },
         {
             "id": "item-607598c8-6327-4b24-849c-ceac277bc4fa",
             "indent": 0,
             "location": "pages\/workflow\/index.html",
-            "order": 4,
+            "order": 5,
             "parent": null,
             "title": "Workflow",
             "description": "wcf elementWhen it's finished, go into the elements\/element-name directory and run yarn start. Then open it in a code editor and work within the elements\/element-name\/src directoryyarn start (mo",
             "metadata": {
                 "created": 1556026848,
-                "updated": 1556294366
+                "updated": 1556294555
             }
         }
     ]
