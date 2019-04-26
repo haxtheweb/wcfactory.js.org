@@ -8,11 +8,11 @@
         "siteName": "wcfactory",
         "domain": "https:\/\/wcfactory.js.org",
         "created": 1554401406,
-        "updated": 1556294555,
+        "updated": 1556294575,
         "theme": {
-            "element": "haxcms-minimalist-theme",
-            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-minimalist-theme.js",
-            "name": "Minimalist site"
+            "element": "outline-player",
+            "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
+            "name": "Documentation"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#009d75",
