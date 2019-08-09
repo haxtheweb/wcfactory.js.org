@@ -75,10 +75,20 @@
             "order": 0,
             "parent": "item-74e096de-e77e-4f4f-8ff3-54be423062f8",
             "title": "New to web components?",
-            "description": "",
+            "description": "If you are new to web components and front end development in general, you may want to consider using Open WC tooling instead.Open WC is a community dedicated to documentation, tooling and guides as",
             "metadata": {
                 "created": 1565377481,
-                "updated": 1565377481
+                "updated": 1565377589,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 3,
+                    "schema": [],
+                    "tags": {
+                        "p": 3
+                    },
+                    "elements": 3
+                }
             }
         },
         {
