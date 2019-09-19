@@ -24,7 +24,7 @@
                 "autoPush": false
             },
             "static": {
-                "lastPublished": 1565660070,
+                "lastPublished": 1568917123,
                 "publishedLocation": "https:\/\/wcfactory.js.org",
                 "cdn": "cdn.waxam.io",
                 "offline": false
@@ -47,6 +47,8 @@
         },
         "node": {
             "dynamicElementLoader": {
+                "h5p-element": "@lrnwebcomponents\/h5p-element\/h5p-element.js",
+                "hax-logo": "@lrnwebcomponents\/hax-logo\/hax-logo.js",
                 "a11y-gif-player": "@lrnwebcomponents\/a11y-gif-player\/a11y-gif-player.js",
                 "code-sample": "@lrnwebcomponents\/code-sample\/code-sample.js",
                 "citation-element": "@lrnwebcomponents\/citation-element\/citation-element.js",
