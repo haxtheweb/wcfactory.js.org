@@ -5,22 +5,33 @@
     "description": "Documentation and tutorials on using WCFactory",
     "license": "by-sa",
     "metadata": {
+        "author": {
+            "image": "",
+            "name": "",
+            "socialLink": ""
+        },
         "site": {
             "name": "wcfactory",
             "domain": "https:\/\/wcfactory.js.org",
             "created": 1554401406,
-            "updated": 1565377481,
+            "updated": 1568917116,
             "git": {
                 "vendor": "github",
                 "branch": "master",
                 "staticBranch": "gh-pages",
                 "url": "git@github.com:elmsln\/wcfactory.js.org.git",
-                "publicRepoUrl": "https://github.com/elmsln/wcfactory.js.org/tree/master/"
+                "publicRepoUrl": "https:\/\/github.com\/elmsln\/wcfactory.js.org\/tree\/master\/",
+                "autoPush": false
             },
             "static": {
                 "lastPublished": 1565660070,
                 "publishedLocation": "https:\/\/wcfactory.js.org",
-                "cdn": "cdn.waxam.io"
+                "cdn": "cdn.waxam.io",
+                "offline": false
+            },
+            "settings": {
+                "pathauto": true,
+                "publishPagesOn": false
             }
         },
         "theme": {
@@ -30,7 +41,8 @@
             "variables": {
                 "image": "assets\/banner.jpg",
                 "hexCode": "#009d75",
-                "cssVariable": "teal"
+                "cssVariable": "--simple-colors-default-theme-indigo-7",
+                "icon": "icons:android"
             }
         },
         "node": {
@@ -72,7 +84,8 @@
                 "html-block": "@lrnwebcomponents\/html-block\/html-block.js",
                 "user-action": "@lrnwebcomponents\/user-action\/user-action.js",
                 "rss-items": "@lrnwebcomponents\/rss-items\/rss-items.js"
-            }
+            },
+            "fields": {}
         }
     },
     "items": [
