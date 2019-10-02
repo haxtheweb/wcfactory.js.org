@@ -15,7 +15,7 @@
             "name": "wcfactory",
             "domain": "https:\/\/wcfactory.js.org",
             "created": 1554401406,
-            "updated": 1569986617,
+            "updated": 1569986684,
             "git": {
                 "vendor": "github",
                 "branch": "master",
@@ -36,7 +36,7 @@
                 "forceUpgrade": true
             },
             "version": "0.12.0",
-            "logo": ""
+            "logo": "files\/powered-by-elmsln-sticker-2.png"
         },
         "theme": {
             "element": "outline-player",
