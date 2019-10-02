@@ -7,15 +7,15 @@
     "metadata": {
         "author": {
             "image": "",
-            "name": "",
-            "socialLink": "",
-            "email": ""
+            "name": "ELMS:LN",
+            "socialLink": "https:\/\/twitter.com\/elmsln",
+            "email": "elmsln@psu.edu"
         },
         "site": {
             "name": "wcfactory",
             "domain": "https:\/\/wcfactory.js.org",
             "created": 1554401406,
-            "updated": 1569986540,
+            "updated": 1569986617,
             "git": {
                 "vendor": "github",
                 "branch": "master",
@@ -45,7 +45,7 @@
             "variables": {
                 "image": "assets\/banner.jpg",
                 "hexCode": "#009d75",
-                "cssVariable": "--simple-colors-default-theme-indigo-7",
+                "cssVariable": "--simple-colors-default-theme-deep-purple-7",
                 "icon": "icons:android"
             }
         },
