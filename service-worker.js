@@ -79,48 +79,48 @@ var precacheConfig = [
         "tI74TTDVG5vUuIuhDt5Wjw"
     ],
     [
-        "",
-        "oVRcvAPejm9xNZXlfRnC8w"
+        "files\/haxcms-managed\/512x512-powered-by-elmsln-sticker-2.png",
+        "jQwNJBXydDuqVT0IkZxA"
     ],
     [
-        "",
-        "oVRcvAPejm9xNZXlfRnC8w"
+        "files\/haxcms-managed\/310x310-powered-by-elmsln-sticker-2.png",
+        "XVEGeHEwEDqyXqw7FKZYQ"
     ],
     [
-        "",
-        "oVRcvAPejm9xNZXlfRnC8w"
+        "files\/haxcms-managed\/192x192-powered-by-elmsln-sticker-2.png",
+        "474ynZxM2D50k0rs24RATg"
     ],
     [
-        "",
-        "oVRcvAPejm9xNZXlfRnC8w"
+        "files\/haxcms-managed\/150x150-powered-by-elmsln-sticker-2.png",
+        "IR2CUXQZRCl2zkteRl3g"
     ],
     [
-        "",
-        "oVRcvAPejm9xNZXlfRnC8w"
+        "files\/haxcms-managed\/144x144-powered-by-elmsln-sticker-2.png",
+        "g8BUGOsIOJqlJLUDGhBvQ"
     ],
     [
-        "",
-        "oVRcvAPejm9xNZXlfRnC8w"
+        "files\/haxcms-managed\/96x96-powered-by-elmsln-sticker-2.png",
+        "SdOhl9sI7kh18JRVpmddQ"
     ],
     [
-        "",
-        "oVRcvAPejm9xNZXlfRnC8w"
+        "files\/haxcms-managed\/72x72-powered-by-elmsln-sticker-2.png",
+        "TsXzgbRmUld097Y6NGRx5Q"
     ],
     [
-        "",
-        "oVRcvAPejm9xNZXlfRnC8w"
+        "files\/haxcms-managed\/70x70-powered-by-elmsln-sticker-2.png",
+        "bomwQABwjrXBm68SbotJ3A"
     ],
     [
-        "",
-        "oVRcvAPejm9xNZXlfRnC8w"
+        "files\/haxcms-managed\/48x48-powered-by-elmsln-sticker-2.png",
+        "oCRhE7duXclLYinJaNOTg"
     ],
     [
-        "",
-        "oVRcvAPejm9xNZXlfRnC8w"
+        "files\/haxcms-managed\/36x36-powered-by-elmsln-sticker-2.png",
+        "muZxYFYdt0BTyG5CTqOuw"
     ],
     [
-        "",
-        "oVRcvAPejm9xNZXlfRnC8w"
+        "files\/haxcms-managed\/16x16-powered-by-elmsln-sticker-2.png",
+        "VZDo1XrCoZyiL7ed5xAsg"
     ],
     [
         "manifest.json",
@@ -128,11 +128,15 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "RModViYpN05Q95GZwCToOg"
+        "P20bXPiZRLht1htiPeTIDg"
     ],
     [
         "404.html",
         "dSqOj2FfwLtvzh03W3Gyg"
+    ],
+    [
+        "files\/powered-by-elmsln-sticker-2.png",
+        "60vLEjzoGDRnYCYCoxFgZQ"
     ],
     [
         "files\/foldertree.jpg",
