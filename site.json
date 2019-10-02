@@ -128,7 +128,17 @@
             "description": "WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand...Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustain",
             "metadata": {
                 "created": 1554401406,
-                "updated": 1565377481
+                "updated": 1565377481,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/sites\/wcfactory\/files\/powered-by-elmsln-sticker-2.png",
+                        "fullUrl": "\/sites\/wcfactory\/files\/powered-by-elmsln-sticker-2.png",
+                        "url": "files\/powered-by-elmsln-sticker-2.png",
+                        "type": "image\/png",
+                        "name": "powered-by-elmsln-sticker-2.png",
+                        "size": 14267
+                    }
+                ]
             }
         },
         {
