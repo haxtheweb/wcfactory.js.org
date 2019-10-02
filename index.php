@@ -122,6 +122,9 @@
     }
     else {
       old=true;
+      if (forceUpgrade) {
+        window.location = "upgrade-browser.html";
+      }
       // we bombed somewhere above, this implies that it's some odd between version
       // most likely Safari 9ish, IE pre 11 and anything uber old. Serve no JS variation
       document.getElementById('site').style.display = 'none';
@@ -130,9 +133,6 @@
       if (path) {
         document.getElementById('content').src = 'pages/' + path + '/index.html';
       }
-    }
-    if (old && forceUpgrade) {
-      window.location = "upgrade-browser.html";
     }
     var link = document.createElement('link');
     link.rel = 'stylesheet';
