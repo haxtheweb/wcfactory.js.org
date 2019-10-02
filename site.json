@@ -8,13 +8,14 @@
         "author": {
             "image": "",
             "name": "",
-            "socialLink": ""
+            "socialLink": "",
+            "email": ""
         },
         "site": {
             "name": "wcfactory",
             "domain": "https:\/\/wcfactory.js.org",
             "created": 1554401406,
-            "updated": 1568917116,
+            "updated": 1569986540,
             "git": {
                 "vendor": "github",
                 "branch": "master",
@@ -31,8 +32,11 @@
             },
             "settings": {
                 "pathauto": true,
-                "publishPagesOn": false
-            }
+                "publishPagesOn": false,
+                "forceUpgrade": true
+            },
+            "version": "0.12.0",
+            "logo": ""
         },
         "theme": {
             "element": "outline-player",
