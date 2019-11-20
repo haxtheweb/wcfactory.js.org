@@ -2,7 +2,7 @@
     "id": "83ba379b-b5a9-4180-b018-7b72735a8420",
     "title": "wcfactory",
     "author": "",
-    "description": "Documentation and tutorials on using WCFactory",
+    "description": "Documentation and tutorials on WCFactory",
     "license": "by-sa",
     "metadata": {
         "author": {
@@ -15,7 +15,7 @@
             "name": "wcfactory",
             "domain": "https:\/\/wcfactory.js.org",
             "created": 1554401406,
-            "updated": 1569987559,
+            "updated": 1574262520,
             "git": {
                 "vendor": "github",
                 "branch": "master",
@@ -33,9 +33,10 @@
             "settings": {
                 "pathauto": true,
                 "publishPagesOn": false,
-                "forceUpgrade": true
+                "forceUpgrade": true,
+                "sw": false
             },
-            "version": "0.12.0",
+            "version": "0.12.3",
             "logo": "files\/powered-by-elmsln-sticker-2.png"
         },
         "theme": {
