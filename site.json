@@ -126,10 +126,10 @@
             "order": 0,
             "parent": null,
             "title": "Home",
-            "description": "WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand...Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustain",
+            "description": "WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand..Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustaini",
             "metadata": {
                 "created": 1554401406,
-                "updated": 1565377481,
+                "updated": 1583280245,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/wcfactory\/files\/powered-by-elmsln-sticker-2.png",
@@ -139,7 +139,24 @@
                         "name": "powered-by-elmsln-sticker-2.png",
                         "size": 14267
                     }
-                ]
+                ],
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 2,
+                    "schema": [
+                        {
+                            "resource": "#678e2e34-6108-93d6-e2cf-a19e4feb7558",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "p": 2,
+                        "ul": 1,
+                        "video-player": 1
+                    },
+                    "elements": 4
+                }
             }
         },
         {

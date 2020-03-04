@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator-class="Icamys\SitemapGenerator\SitemapGenerator" -->
 <!-- generator-version="1.1.0" -->
-<!-- generated-on="2019-10-01T21:24:41-06:00" -->
+<!-- generated-on="2020-03-04T00:04:05+00:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://wcfactory.js.orghttps://wcfactory.js.org/tutorials/new-to-web-components-</loc>
-    <lastmod>2019-08-09T13:06:29-06:00</lastmod>
+    <lastmod>2019-08-09T19:06:29+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wcfactory.js.orghttps://wcfactory.js.org/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e</loc>
-    <lastmod>2019-08-09T13:04:41-06:00</lastmod>
+    <lastmod>2020-03-04T00:04:05+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://wcfactory.js.orghttps://wcfactory.js.org/multiple-components-1-element</loc>
-    <lastmod>2019-08-09T13:04:41-06:00</lastmod>
+    <lastmod>2019-08-09T19:04:41+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wcfactory.js.orghttps://wcfactory.js.org/tutorials</loc>
-    <lastmod>2019-08-09T13:04:41-06:00</lastmod>
+    <lastmod>2019-08-09T19:04:41+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://wcfactory.js.orghttps://wcfactory.js.org/using-existing-web-components</loc>
-    <lastmod>2019-08-09T13:04:41-06:00</lastmod>
+    <lastmod>2019-08-09T19:04:41+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wcfactory.js.orghttps://wcfactory.js.org/terms</loc>
-    <lastmod>2019-08-09T13:04:41-06:00</lastmod>
+    <lastmod>2019-08-09T19:04:41+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://wcfactory.js.orghttps://wcfactory.js.org/contributing</loc>
-    <lastmod>2019-08-09T13:04:41-06:00</lastmod>
+    <lastmod>2019-08-09T19:04:41+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://wcfactory.js.orghttps://wcfactory.js.org/faq</loc>
-    <lastmod>2019-08-09T13:04:41-06:00</lastmod>
+    <lastmod>2019-08-09T19:04:41+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://wcfactory.js.orghttps://wcfactory.js.org/workflow</loc>
-    <lastmod>2019-08-09T13:04:41-06:00</lastmod>
+    <lastmod>2019-08-09T19:04:41+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

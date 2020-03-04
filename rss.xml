@@ -3,10 +3,10 @@
   <channel>
     <title>wcfactory</title>
     <link>https://wcfactory.js.org/rss.xml</link>
-    <description>Documentation and tutorials on using WCFactory</description>
-    <copyright>Copyright (C) 2019 https://wcfactory.js.org</copyright>
+    <description>Documentation and tutorials on WCFactory</description>
+    <copyright>Copyright (C) 2020 https://wcfactory.js.org</copyright>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2019 21:23:37 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 15:08:40 +0000</lastBuildDate>
     <atom:link href="https://wcfactory.js.org/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>New to web components?</title>
@@ -20,7 +20,7 @@
       </description>
       <category></category>
       <guid>https://wcfactory.js.org/tutorials/new-to-web-components-</guid>
-      <pubDate>Fri, 09 Aug 2019 13:04:41 -0600</pubDate>
+      <pubDate>Fri, 09 Aug 2019 19:04:41 +0000</pubDate>
     </item>
     <item>
       <title>Multiple components per element</title>
@@ -35,7 +35,7 @@
       </description>
       <category></category>
       <guid>https://wcfactory.js.org/multiple-components-1-element</guid>
-      <pubDate>Wed, 24 Apr 2019 18:26:50 -0600</pubDate>
+      <pubDate>Thu, 25 Apr 2019 00:26:50 +0000</pubDate>
     </item>
     <item>
       <title>Using existing web components</title>
@@ -64,7 +64,7 @@
       </description>
       <category></category>
       <guid>https://wcfactory.js.org/using-existing-web-components</guid>
-      <pubDate>Wed, 24 Apr 2019 18:26:50 -0600</pubDate>
+      <pubDate>Thu, 25 Apr 2019 00:26:50 +0000</pubDate>
     </item>
     <item>
       <title>Workflow</title>
@@ -83,7 +83,7 @@
       </description>
       <category></category>
       <guid>https://wcfactory.js.org/workflow</guid>
-      <pubDate>Tue, 23 Apr 2019 07:40:48 -0600</pubDate>
+      <pubDate>Tue, 23 Apr 2019 13:40:48 +0000</pubDate>
     </item>
     <item>
       <title>FAQ</title>
@@ -114,7 +114,7 @@ polymer build
       </description>
       <category></category>
       <guid>https://wcfactory.js.org/faq</guid>
-      <pubDate>Tue, 09 Apr 2019 23:39:17 -0600</pubDate>
+      <pubDate>Wed, 10 Apr 2019 05:39:17 +0000</pubDate>
     </item>
     <item>
       <title>Terms</title>
@@ -132,7 +132,7 @@ polymer build
       </description>
       <category></category>
       <guid>https://wcfactory.js.org/terms</guid>
-      <pubDate>Thu, 04 Apr 2019 12:20:21 -0600</pubDate>
+      <pubDate>Thu, 04 Apr 2019 18:20:21 +0000</pubDate>
     </item>
     <item>
       <title>Tutorials</title>
@@ -144,7 +144,7 @@ polymer build
       </description>
       <category></category>
       <guid>https://wcfactory.js.org/tutorials</guid>
-      <pubDate>Thu, 04 Apr 2019 12:10:50 -0600</pubDate>
+      <pubDate>Thu, 04 Apr 2019 18:10:50 +0000</pubDate>
     </item>
     <item>
       <title>Contributing</title>
@@ -160,13 +160,13 @@ polymer build
       </description>
       <category></category>
       <guid>https://wcfactory.js.org/contributing</guid>
-      <pubDate>Thu, 04 Apr 2019 12:10:50 -0600</pubDate>
+      <pubDate>Thu, 04 Apr 2019 18:10:50 +0000</pubDate>
     </item>
     <item>
       <title>Home</title>
       <link>https://wcfactory.js.org/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e</link>
       <description>
-          <![CDATA[ <p>WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand...</p>
+          <![CDATA[ <p style="width: 100%;">WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand..</p>
 <ul><li>Yarn Workspaces</li>
 <li>Lerna monorepos</li>
 <li>Build routines for web components</li>
@@ -180,12 +180,12 @@ polymer build
  which is entirely composed of <a href="https://www.webcomponents.org/author/elmsln">web component factory generated elements</a>
  from a <a href="https://github.com/elmsln/lrnwebcomponents">single monorepo</a>
 .</p>
-<video-player accent-color="light-blue" dark="dark" lang="en" preload="metadata" source="https://www.youtube.com/watch?v=kWmtOFwcXyE" sticky-corner="top-right" youtube-id="kWmtOFwcXyE" iframed source-type="youtube" is-a11y-media is-youtube style="width: 50%; margin: 0px auto; display: block;"></video-player>
+<video-player accent-color="light-blue" dark lang="en" preload="metadata" source="https://www.youtube.com/watch?v=kWmtOFwcXyE" sticky-corner="top-right" youtube-id="kWmtOFwcXyE" iframed="" source-type="youtube" is-a11y-media="" is-youtube="" style="width: 50%; margin: 0px auto; display: block;" resource="#678e2e34-6108-93d6-e2cf-a19e4feb7558" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " colors="[object Object]" schema-resource-id="#678e2e34-6108-93d6-e2cf-a19e4feb7558" sources="[]" tracks="[]"></video-player>
  ]]>
       </description>
       <category></category>
       <guid>https://wcfactory.js.org/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e</guid>
-      <pubDate>Thu, 04 Apr 2019 12:10:06 -0600</pubDate>
+      <pubDate>Thu, 04 Apr 2019 18:10:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
