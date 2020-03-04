@@ -44,7 +44,7 @@ var precacheConfig = [
     ],
     [
         "pages\/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e\/index.html",
-        "9PDDDS5N3TtRH2wAiB0R3A"
+        "kBQFjgsS1v21P3HZRXqQ"
     ],
     [
         "pages\/multiple-components-1-element\/index.html",
@@ -76,7 +76,7 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "TIPfmGXbXA9aLrH48CD3sA"
+        "WGa3vji4VdX4pB29a5rsbQ"
     ],
     [
         "files\/haxcms-managed\/512x512-powered-by-elmsln-sticker-2.png",
@@ -128,19 +128,19 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "zWz3MTwCuYCW2k2pooCEg"
+        "0V514O9goiCqT86oYlA"
     ],
     [
         "404.html",
         "QEzLbAYRfRrqwxyIGIpfNQ"
     ],
     [
-        "files\/powered-by-elmsln-sticker-2.png",
-        "60vLEjzoGDRnYCYCoxFgZQ"
-    ],
-    [
         "files\/foldertree.jpg",
         "6YsaeUa400IBwLrCvOMykw"
+    ],
+    [
+        "files\/powered-by-elmsln-sticker-2.png",
+        "60vLEjzoGDRnYCYCoxFgZQ"
     ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
