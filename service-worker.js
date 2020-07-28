@@ -76,7 +76,15 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "8DziwZUUW7yRcamiowQ"
+        "K9IhVzJvJzntP9tsZ93kRQ"
+    ],
+    [
+        "manifest.json",
+        "NQ6UNvs0WLO64hLCcFE39A"
+    ],
+    [
+        "site.json",
+        "HVCboGTmhqxorPL9F8Sw"
     ],
     [
         "files\/haxcms-managed\/512x512-powered-by-elmsln-sticker-2.png",
@@ -121,14 +129,6 @@ var precacheConfig = [
     [
         "files\/haxcms-managed\/16x16-powered-by-elmsln-sticker-2.png",
         "VZDo1XrCoZyiL7ed5xAsg"
-    ],
-    [
-        "manifest.json",
-        "gmNXxVtnfpUk2yLp2YOQ"
-    ],
-    [
-        "site.json",
-        "5Vpo00FAwuLjN27CkA4qg"
     ],
     [
         "404.html",
