@@ -1,3 +1,4 @@
+Sitemap: wcfactory.js.org/sitemap.xml
 User-agent: *
 Crawl-delay: 10
 # CSS, JS, Images
@@ -20,8 +21,5 @@ Allow: /theme/*.jpeg
 Allow: /theme/*.png
 
 Disallow: /assets/
-Disallow: /build/
-Disallow: /dist/
-Disallow: /node_modules/
-Disallow: /pages/
-Disallow: /theme/
+Disallow: /system/
+Disallow: /README/

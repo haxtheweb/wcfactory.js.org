@@ -1,275 +1,282 @@
 {
-    "id": "83ba379b-b5a9-4180-b018-7b72735a8420",
-    "title": "wcfactory",
-    "author": "",
-    "description": "Documentation and tutorials on WC Factory",
-    "license": "by-sa",
-    "metadata": {
-        "author": {
-            "image": "",
-            "name": "ELMS:LN",
-            "socialLink": "https:\/\/twitter.com\/elmsln",
-            "email": "elmsln@psu.edu"
-        },
-        "site": {
-            "name": "wcfactory",
-            "domain": "https:\/\/wcfactory.js.org",
-            "created": 1554401406,
-            "updated": 1585966910,
-            "git": {
-                "vendor": "github",
-                "branch": "master",
-                "staticBranch": "gh-pages",
-                "url": "git@github.com:elmsln\/wcfactory.js.org.git",
-                "publicRepoUrl": "https:\/\/github.com\/elmsln\/wcfactory.js.org\/tree\/master\/",
-                "autoPush": false
-            },
-            "static": {
-                "lastPublished": 1595962104,
-                "publishedLocation": "https:\/\/wcfactory.js.org",
-                "cdn": "cdn.waxam.io",
-                "offline": false
-            },
-            "settings": {
-                "pathauto": false,
-                "publishPagesOn": false,
-                "forceUpgrade": true,
-                "sw": false
-            },
-            "version": "1.1.1",
-            "logo": "files\/powered-by-elmsln-sticker-2.png"
-        },
-        "theme": {
-            "element": "outline-player",
-            "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
-            "name": "Documentation",
-            "variables": {
-                "image": "assets\/banner.jpg",
-                "hexCode": "#009d75",
-                "cssVariable": "--simple-colors-default-theme-deep-purple-7",
-                "icon": "icons:android"
-            }
-        },
-        "node": {
-            "dynamicElementLoader": {
-                "h5p-element": "@lrnwebcomponents\/h5p-element\/h5p-element.js",
-                "hax-logo": "@lrnwebcomponents\/hax-logo\/hax-logo.js",
-                "a11y-gif-player": "@lrnwebcomponents\/a11y-gif-player\/a11y-gif-player.js",
-                "code-sample": "@lrnwebcomponents\/code-sample\/code-sample.js",
-                "citation-element": "@lrnwebcomponents\/citation-element\/citation-element.js",
-                "hero-banner": "@lrnwebcomponents\/hero-banner\/hero-banner.js",
-                "image-compare-slider": "@lrnwebcomponents\/image-compare-slider\/image-compare-slider.js",
-                "license-element": "@lrnwebcomponents\/license-element\/license-element.js",
-                "lrn-aside": "@lrnwebcomponents\/lrn-aside\/lrn-aside.js",
-                "lrn-math": "@lrnwebcomponents\/lrn-math\/lrn-math.js",
-                "lrn-table": "@lrnwebcomponents\/lrn-table\/lrn-table.js",
-                "lrn-vocab": "@lrnwebcomponents\/lrn-vocab\/lrn-vocab.js",
-                "lrndesign-blockquote": "@lrnwebcomponents\/lrndesign-blockquote\/lrndesign-blockquote.js",
-                "magazine-cover": "@lrnwebcomponents\/magazine-cover\/magazine-cover.js",
-                "media-behaviors": "@lrnwebcomponents\/media-behaviors\/media-behaviors.js",
-                "media-image": "@lrnwebcomponents\/media-image\/media-image.js",
-                "meme-maker": "@lrnwebcomponents\/meme-maker\/meme-maker.js",
-                "grid-plate": "@lrnwebcomponents\/grid-plate\/grid-plate.js",
-                "md-block": "@lrnwebcomponents\/md-block\/md-block.js",
-                "multiple-choice": "@lrnwebcomponents\/multiple-choice\/multiple-choice.js",
-                "paper-audio-player": "@lrnwebcomponents\/paper-audio-player\/paper-audio-player.js",
-                "person-testimonial": "@lrnwebcomponents\/person-testimonial\/person-testimonial.js",
-                "place-holder": "@lrnwebcomponents\/place-holder\/place-holder.js",
-                "q-r": "@lrnwebcomponents\/q-r\/q-r.js",
-                "full-width-image": "@lrnwebcomponents\/full-width-image\/full-width-image.js",
-                "self-check": "@lrnwebcomponents\/self-check\/self-check.js",
-                "simple-concept-network": "@lrnwebcomponents\/simple-concept-network\/simple-concept-network.js",
-                "stop-note": "@lrnwebcomponents\/stop-note\/stop-note.js",
-                "tab-list": "@lrnwebcomponents\/tab-list\/tab-list.js",
-                "task-list": "@lrnwebcomponents\/task-list\/task-list.js",
-                "video-player": "@lrnwebcomponents\/video-player\/video-player.js",
-                "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
-                "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js",
-                "lrndesign-gallery": "@lrnwebcomponents\/lrndesign-gallery\/lrndesign-gallery.js",
-                "lrndesign-timeline": "@lrnwebcomponents\/lrndesign-timeline\/lrndesign-timeline.js",
-                "html-block": "@lrnwebcomponents\/html-block\/html-block.js",
-                "user-action": "@lrnwebcomponents\/user-action\/user-action.js",
-                "rss-items": "@lrnwebcomponents\/rss-items\/rss-items.js"
-            },
-            "fields": {}
-        }
+  "id": "#10bc4e70-6992-38a5-3482-89a7f212a4ad",
+  "title": "wcfactory.js.org",
+  "author": "btopro",
+  "description": "project documentation",
+  "license": "by-sa",
+  "metadata": {
+    "author": {
+      "image": "https://github.com/btopro.png",
+      "name": "btopro",
+      "email": "",
+      "socialLink": "https://twitter.com/"
     },
-    "items": [
-        {
-            "id": "item-8a44ef49-7c90-46c0-a230-8b9bdf7bc4dc",
-            "indent": 1,
-            "location": "pages\/tutorials\/new-to-web-components-\/index.html",
-            "slug": "tutorials\/new-to-web-components-",
-            "order": 0,
-            "parent": "item-74e096de-e77e-4f4f-8ff3-54be423062f8",
-            "title": "New to web components?",
-            "description": "If you are new to web components and front end development in general, you may want to consider using Open WC tooling instead.Open WC is a community dedicated to documentation, tooling and guides as",
-            "metadata": {
-                "created": 1565377481,
-                "updated": 1565377589,
-                "readtime": 1,
-                "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 3,
-                    "schema": [],
-                    "tags": {
-                        "p": 3
-                    },
-                    "elements": 3
-                }
-            }
-        },
-        {
-            "id": "item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e",
-            "indent": 0,
-            "location": "pages\/item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e\/index.html",
-            "slug": "item-2be8aff3-4a97-4fc3-b25a-2df59ba1a38e",
-            "order": 0,
-            "parent": null,
-            "title": "Home",
-            "description": "WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand..Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustaini",
-            "metadata": {
-                "created": 1554401406,
-                "updated": 1583280245,
-                "files": [
-                    {
-                        "path": "\/var\/www\/html\/sites\/wcfactory\/files\/powered-by-elmsln-sticker-2.png",
-                        "fullUrl": "\/sites\/wcfactory\/files\/powered-by-elmsln-sticker-2.png",
-                        "url": "files\/powered-by-elmsln-sticker-2.png",
-                        "type": "image\/png",
-                        "name": "powered-by-elmsln-sticker-2.png",
-                        "size": 14267
-                    }
-                ],
-                "readtime": 1,
-                "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 2,
-                    "schema": [
-                        {
-                            "resource": "#678e2e34-6108-93d6-e2cf-a19e4feb7558",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "p": 2,
-                        "ul": 1,
-                        "video-player": 1
-                    },
-                    "elements": 4
-                }
-            }
-        },
-        {
-            "id": "item-baaa72c0-44da-4519-848c-18bbea9a3e81",
-            "indent": 1,
-            "location": "pages\/multiple-components-1-element\/index.html",
-            "slug": "multiple-components-1-element",
-            "order": 1,
-            "parent": "item-74e096de-e77e-4f4f-8ff3-54be423062f8",
-            "title": "Multiple components per element",
-            "description": "Let's say you've made an element and now you want to add another one.If the element is related or integral to the success of the first element, you might want to consider grouping it in the same \"ele",
-            "metadata": {
-                "created": 1556152010,
-                "updated": 1565377481,
-                "files": [
-                    {
-                        "path": "\/var\/www\/html\/_sites\/wcfactory\/files\/scale-50\/foldertree.jpg",
-                        "fullUrl": "\/_sites\/wcfactory\/files\/scale-50\/foldertree.jpg",
-                        "url": "files\/scale-50\/foldertree.jpg",
-                        "type": "image\/jpeg",
-                        "name": "foldertree.jpg",
-                        "size": 143823
-                    }
-                ],
-                "wordcount": 1,
-                "readtime": 1
-            }
-        },
-        {
-            "id": "item-74e096de-e77e-4f4f-8ff3-54be423062f8",
-            "indent": 0,
-            "location": "pages\/tutorials\/index.html",
-            "slug": "tutorials",
-            "order": 1,
-            "parent": null,
-            "title": "Tutorials",
-            "description": "Here's a playlist we'll update with videos related to WCfactory",
-            "metadata": {
-                "created": 1554401450,
-                "updated": 1565377481
-            }
-        },
-        {
-            "id": "item-326e081f-697b-4a33-8ed7-b7edaed5b66e",
-            "indent": 1,
-            "location": "pages\/using-existing-web-components\/index.html",
-            "slug": "using-existing-web-components",
-            "order": 2,
-            "parent": "item-74e096de-e77e-4f4f-8ff3-54be423062f8",
-            "title": "Using existing web components",
-            "description": "So you want to leverage all that goodness from web components [dot] org huh? Awesome! There's a minor thing you need to do differently from typical yarn repos you might be used to.Because this is a m",
-            "metadata": {
-                "created": 1556152010,
-                "updated": 1565377481,
-                "wordcount": 1
-            }
-        },
-        {
-            "id": "item-4ab9194b-9415-4dfc-9210-47135ab3d2e6",
-            "indent": 0,
-            "location": "pages\/terms\/index.html",
-            "slug": "terms",
-            "order": 2,
-            "parent": null,
-            "title": "Terms",
-            "description": "Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Mono",
-            "metadata": {
-                "created": 1554402021,
-                "updated": 1565377481
-            }
-        },
-        {
-            "id": "item-17420799-6844-4f1b-a5af-09dc9de6dcbf",
-            "indent": 0,
-            "location": "pages\/contributing\/index.html",
-            "slug": "contributing",
-            "order": 3,
-            "parent": null,
-            "title": "Contributing",
-            "description": "If you'd like to contribute to WCFactory, check out our git repo.If you'd like to contribute to the elements that make up this website, check out our monorepo produced and managed by WCFactory.If ",
-            "metadata": {
-                "created": 1554401450,
-                "updated": 1565377481
-            }
-        },
-        {
-            "id": "item-0fc85070-f275-4029-a8fd-dba1502e8664",
-            "indent": 0,
-            "location": "pages\/faq\/index.html",
-            "slug": "faq",
-            "order": 4,
-            "parent": null,
-            "title": "FAQ",
-            "description": "There's a lot going on here, can't you make this easier?We're working on a UI that helps in running the commands but organizing and managing a company library \/ brand for your organization is tricky.",
-            "metadata": {
-                "created": 1554874757,
-                "updated": 1565377481
-            }
-        },
-        {
-            "id": "item-607598c8-6327-4b24-849c-ceac277bc4fa",
-            "indent": 0,
-            "location": "pages\/workflow\/index.html",
-            "slug": "workflow",
-            "order": 5,
-            "parent": null,
-            "title": "Workflow",
-            "description": "wcf elementWhen it's finished, go into the elements\/element-name directory and run yarn start. Then open it in a code editor and work within the elements\/element-name\/src directoryyarn start (mo",
-            "metadata": {
-                "created": 1556026848,
-                "updated": 1565377481
-            }
-        }
-    ]
+    "site": {
+      "name": "wcfactory.js.org",
+      "created": 1620744121356,
+      "updated": 1620744121356,
+      "git": {
+        "autoPush": false,
+        "branch": "master",
+        "staticBranch": "gh-pages",
+        "vendor": "github",
+        "publicRepoUrl": "https://github.com/elmsln/wcfactory.js.org/blob/master/src/",
+        "url": "git@github.com:elmsln/wcfactory.js.org.git"
+      },
+      "version": "1.2.9-11ty",
+      "domain": "https://localhost:8000",
+      "logo": "assets/images/photo-1497493292307-31c376b6e479.jpeg",
+      "static": {
+        "cdn": "build",
+        "offline": false
+      },
+      "settings": {
+        "pathauto": false,
+        "publishPagesOn": false,
+        "forceUpgrade": true,
+        "sw": false
+      }
+    },
+    "theme": {
+      "element": "clean-two",
+      "variables": {
+        "image": "assets/banner.jpg",
+        "hexCode": "#55FF55",
+        "cssVariable": "--simple-colors-default-theme-green-7",
+        "logo": "lrn:network"
+      }
+    }
+  },
+  "items": [
+    {
+      "id": "--content-1_home-md",
+      "indent": 0,
+      "location": "./pages/1_home.md",
+      "slug": "content/1_home/",
+      "order": 0,
+      "title": "Home",
+      "description": "Home",
+      "parent": null,
+      "metadata": {
+        "created": 1620744096,
+        "updated": 1620744096,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Home"
+      }
+    },
+    {
+      "id": "--content-2_contributing-md",
+      "indent": 0,
+      "location": "./pages/2_contributing.md",
+      "slug": "content/2_contributing/",
+      "order": 1,
+      "title": "Contributing",
+      "description": "Contributing",
+      "parent": null,
+      "metadata": {
+        "created": 1620744096,
+        "updated": 1620744096,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Contributing"
+      }
+    },
+    {
+      "id": "--content-examples-md",
+      "indent": 0,
+      "location": "./pages/examples.md",
+      "slug": "content/examples/",
+      "order": 2,
+      "title": "Examples",
+      "description": "Examples",
+      "parent": null,
+      "metadata": {
+        "created": 1620744096,
+        "updated": 1620744096,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Examples"
+      }
+    },
+    {
+      "id": "--content-faq-md",
+      "indent": 0,
+      "location": "./pages/faq.md",
+      "slug": "content/faq/",
+      "order": 3,
+      "title": "FAQ",
+      "description": "FAQ",
+      "parent": null,
+      "metadata": {
+        "created": 1620744096,
+        "updated": 1620744096,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "FAQ"
+      }
+    },
+    {
+      "id": "--content-multiple-components-1-element-md",
+      "indent": 0,
+      "location": "./pages/multiple-components-1-element.md",
+      "slug": "content/multiple-components-1-element/",
+      "order": 4,
+      "title": "Multiple components in one repo",
+      "description": "Multiple components in one repo",
+      "parent": null,
+      "metadata": {
+        "created": 1620744096,
+        "updated": 1620744096,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Multiple components in one repo"
+      }
+    },
+    {
+      "id": "--content-terms-md",
+      "indent": 0,
+      "location": "./pages/terms.md",
+      "slug": "content/terms/",
+      "order": 5,
+      "title": "Terms",
+      "description": "Terms",
+      "parent": null,
+      "metadata": {
+        "created": 1620744096,
+        "updated": 1620744096,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Terms"
+      }
+    },
+    {
+      "id": "--content-using-existing-web-components-md",
+      "indent": 0,
+      "location": "./pages/using-existing-web-components.md",
+      "slug": "content/using-existing-web-components/",
+      "order": 6,
+      "title": "Reusing web components",
+      "description": "Reusing web components",
+      "parent": null,
+      "metadata": {
+        "created": 1620744096,
+        "updated": 1620744096,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Reusing web components"
+      }
+    },
+    {
+      "id": "--content-workflow-md",
+      "indent": 0,
+      "location": "./pages/workflow.md",
+      "slug": "content/workflow/",
+      "order": 7,
+      "title": "Workflow",
+      "description": "Workflow",
+      "parent": null,
+      "metadata": {
+        "created": 1620744096,
+        "updated": 1620744096,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Workflow"
+      }
+    },
+    {
+      "id": "--content-tutorials-index-md",
+      "indent": 0,
+      "location": "./pages/tutorials/index.md",
+      "slug": "content/tutorials/",
+      "order": 8,
+      "title": "Tutorials",
+      "description": "Tutorials",
+      "parent": null,
+      "metadata": {
+        "created": 1620744096,
+        "updated": 1620744096,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Tutorials"
+      }
+    },
+    {
+      "id": "--content-tutorials-new-to-web-components-md",
+      "indent": 0,
+      "location": "./pages/tutorials/new-to-web-components.md",
+      "slug": "content/tutorials/new-to-web-components/",
+      "order": 9,
+      "title": "New to web components?",
+      "description": "New to web components?",
+      "parent": "--content-tutorials-index-md",
+      "metadata": {
+        "created": 1620744096,
+        "updated": 1620744096,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "New to web components?"
+      }
+    }
+  ]
 }

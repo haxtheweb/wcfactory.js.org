@@ -1,6 +1,6 @@
 {
-    "title": "wcfactory",
-    "description": "Documentation and tutorials on WC Factory",
+    "title": "wcfactory.js.org",
+    "description": "project documentation",
     "type": [
         "website", "HAXcms"
     ],
@@ -8,7 +8,7 @@
         "license": [
             {
                 "href": "https://creativecommons.org/licenses/by-sa/4.0/",
-                "title": "License: Creative Commons: Attribution Share a like"
+                "title": "Creative Commons: Attribution Share a like"
             }
         ]
     }

@@ -2,10 +2,10 @@
 <browserconfig>
 	<msapplication>
 		<tile>
-			<square70x70logo src="files/haxcms-managed/70x70-powered-by-elmsln-sticker-2.png"/>
-			<square150x150logo src="files/haxcms-managed/150x150-powered-by-elmsln-sticker-2.png"/>
-			<square310x310logo src="files/haxcms-managed/310x310-powered-by-elmsln-sticker-2.png"/>
-			<TileColor>#009d75</TileColor>
+			<square70x70logo src="assets/images/photo-1497493292307-31c376b6e479.jpeg"/>
+			<square150x150logo src="assets/images/photo-1497493292307-31c376b6e479.jpeg"/>
+			<square310x310logo src="assets/images/photo-1497493292307-31c376b6e479.jpeg"/>
+			<TileColor>#55FF55</TileColor>
 		</tile>
 	</msapplication>
 </browserconfig>
