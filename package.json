@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "es-module-shims": "^0.4.6",
-    "pnpm": "6.33.1",
+    "pnpm": "7.33.4",
     "@11ty/eleventy": "1.0.1",
     "@oclif/plugin-help": "5.1.12",
     "@11ty/eleventy-plugin-rss": "1.0.7",
