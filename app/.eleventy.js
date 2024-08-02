@@ -1,6 +1,6 @@
 const SITEDIR = "_site";
 const CONTENTDIR = "content";
-let Nunjucks = require("nunjucks");  
+//let Nunjucks = require("nunjucks");  
 const crypto = require('crypto');
 const fs = require('fs-extra');
 const path = require('path');
@@ -15,10 +15,10 @@ module.exports = function (eleventyConfig) {
   }
   eleventyConfig.dir.output = SITEDIR;
   // establish environment nunjuck things for templating
-  let nunjucksEnvironment = new Nunjucks.Environment(
+  /*let nunjucksEnvironment = new Nunjucks.Environment(
     new Nunjucks.FileSystemLoader("_includes")
   );
-  eleventyConfig.setLibrary("njk", nunjucksEnvironment);
+  eleventyConfig.setLibrary("njk", nunjucksEnvironment);*/
   eleventyConfig.setTemplateFormats(["html","md", "njk"]);
   // copy this directory but DO NOT inject grey matter
   // this allows HAXcms to render content bare but with DX writing title data in head matter
@@ -36,6 +36,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "theme": "theme",
     "custom": "custom",
+    "../src/files": "files",
     "unbundled-webcomponents/app/dist/assets": "assets",
     "unbundled-webcomponents/app/dist/build.js": "build.js",
     "unbundled-webcomponents/app/dist/wc-registry.json": "wc-registry.json",
@@ -262,6 +263,8 @@ module.exports = function (eleventyConfig) {
         return true;
       }
       return false;
+    }).sort(function(a, b) {
+      return parseFloat(a.order) - parseFloat(b.order);
     });
     return JSON.stringify({ 
       id: settings.siteUuid,

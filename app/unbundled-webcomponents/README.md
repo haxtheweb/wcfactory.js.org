@@ -2,12 +2,12 @@
 This is an optimized workflow for those implementing unbundled builds for web components. The goal is to provide the easiest integration for unbundled builds, made popular by CDNs in large organizations. You have to use yarn because it supports `"flat": true,` which is required for unbundling to work
 
 ## Example from the advanced.html file
-[Check out the advanced HTML file on rawgit](https://ghcdn.rawgit.org/elmsln/unbundled-webcomponents/master/advanced.html) to see what's happening. Your site hydrates based on finding tags that are undefined. You'd put these in your application or on a CDN and then the integration methodology is the same every time regardless of app!
+[Check out the advanced HTML file on rawgit](https://ghcdn.rawgit.org/haxtheweb/unbundled-webcomponents/master/advanced.html) to see what's happening. Your site hydrates based on finding tags that are undefined. You'd put these in your application or on a CDN and then the integration methodology is the same every time regardless of app!
 
 ## Using this repo in anything
 This is a starting point to do a build. Here's how to fork and customize it to be your own:
 - Install [yarn](https://classic.yarnpkg.com/en/docs/install/)
-- `git clone https://github.com/elmsln/unbundled-webcomponents.git` this repo
+- `git clone https://github.com/haxtheweb/unbundled-webcomponents.git` this repo
 - `cd unbundled-webcomponents/app` to move into the directory
 - `yarn add` to add / install new elements or edit `app/package.json` directly
 - reference all the elements you want to import in `app/dist/app.js` or reference them in `app/dist/index.html`
@@ -24,8 +24,8 @@ Well, polymer.json happens to do unbundled builds. It is a bundler / compiler bu
 
 ### Using this repo in Drupal CMS (as an example of implementation, works with anything though)
 - download this repo
-- add new web components via `yarn add @lrnwebcomponents/h-a-x`
-- add `import "@lrnwebcomponents/h-a-x/h-a-x.js";` to the `app/src/app.js` file
+- add new web components via `yarn add @haxtheweb/h-a-x`
+- add `import "@haxtheweb/h-a-x/h-a-x.js";` to the `app/src/app.js` file
 - do the build routine spelled out above
 - after `yarn run build`, rename the `app/dist/` folder to `webcomponents`
 - place this in `sites/all/libraries/`
@@ -46,8 +46,6 @@ Well, polymer.json happens to do unbundled builds. It is a bundler / compiler bu
 ## Tools in here
 This has a configuration of polymer.json, a format used by the polymer CLI in order to create 3 builds of your assets.
 - es6+ - This is labeled es6 but is running es8 capable build which all Evergreen browsers support.
-- es6-amd - a few rare versions of Safari and many older versions of Firefox could handle ES6 spec but NOT `import`
-- es5-amd - compiled to work on IE11, older versions of Edge, Firefox and Safari
 
 ### Polymer? We don't want no stinkin..
 This uses the polymer CLI for the time being. Once other plugins are written to do in-place, unbundled file building we'll update but for now it does a great job and has no requirement on using polymer in your project as it's just for commandline.

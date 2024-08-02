@@ -2,20 +2,35 @@
   "license": "MIT",
   "scripts": {
     "start": "cd app && hax11ty serve",
-    "clean-up-pre": "rm -rf dist/build",
-    "clean-up-post": "rm dist/assets/styles.css && cp src/styles.css dist/assets/styles.css",
-    "build": "yarn run clean-up-pre && cd app && env HAXCMS_CDN=true env HAXCMS_SERVICE_WORKER=true env HAXCMS_GITHUB=true hax11ty build && yarn run clean-up-post",
-    "local-build": "yarn run clean-up-pre && cd app &&  env HAXCMS_CONTEXT=haxcms hax11ty build && yarn run clean-up-post"
+    "preinstall": "cd src/custom && yarn install && cd ../..",
+    "clean-up-pre": "rm -rf dist && mkdir dist",
+    "clean-up-post": "rm dist/assets/styles.css && cp src/styles.css dist/assets/styles.css && rm -rf dist/custom && cp -R src/custom dist/custom",
+    "build:cdn": "yarn run clean-up-pre && cd src/custom && yarn run build && cd ../../app && env HAXCMS_CDN=true env HAXCMS_SERVICE_WORKER=true env HAXCMS_GITHUB=true hax11ty build && yarn run clean-up-post",
+    "build": "yarn run clean-up-pre && cd src/custom && yarn run build && cd ../../app &&  env HAXCMS_CONTEXT=haxcms env HAXCMS_SERVICE_WORKER=true env HAXCMS_GITHUB=true hax11ty build && yarn run clean-up-post"
+  },
+  "bin": {
+    "eleventy": ".bin/eleventy"
   },
   "devDependencies": {
-    "@haxcms/11ty": "^0.0.13",
+    "es-module-shims": "^0.4.6",
+    "pnpm": "6.33.1",
+    "@11ty/eleventy": "1.0.1",
+    "@oclif/plugin-help": "5.1.12",
     "@11ty/eleventy-plugin-rss": "1.0.7",
-    "eleventy-xml-plugin": "0.1.0",
+    "@haxcms/11ty": "0.0.13",
+    "browserslist": "4.20.2",
     "crypto": "1.0.1",
+    "eleventy-xml-plugin": "0.1.0",
+    "fs-extra": "8.1.0",
     "gray-matter": "4.0.2",
-    "fs-extra":"8.1.0"
+    "commit-and-tag-version": "^12.4.1"
+  },
+  "resolutions": {
+    "browserslist": "4.20.2"
   },
   "dependencies": {
-    "es-module-shims": "^0.4.6"
-  }
+    "es-module-shims": "^0.4.6",
+    "yarn": "^1.22.18"
+  },
+  "version": "9.0.3"
 }

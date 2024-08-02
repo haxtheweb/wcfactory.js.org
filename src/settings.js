@@ -5,9 +5,9 @@ module.exports = () => {
     // will most likley want to change designated
     // github organization / username
     // github.com/WHATEVER
-    var gitOrg = "elmsln";
-    // github.com/elmsln/WHATEVER - hax11ty here implies building against the repo itself to produce it's own docs :)
-    var gitProject = "hax11ty";
+    var gitOrg = "haxtheweb";
+    // github.com/haxtheweb/WHATEVER - wcfactory.js.org here implies building against the repo itself to produce it's own docs :)
+    var gitProject = "wcfactory.js.org";
     // if doing github builds, automatically set these to whatever the repo issuing the call is
     // the above is just for SOME default so things below publish correctly locally
     if (process.env.GITHUB_REPOSITORY) {
@@ -78,7 +78,7 @@ module.exports = () => {
         // theme to use HAXcms valid theme as it appears in the wc-factory listing
         themeElement: "clean-two", // clean-two, clean-one, bootstrap-theme, learn-two-theme, or any other valid HAXcms theme
         // path to the entryway for the theme file. Not required but improves load times to have this for preloading
-        themePath: "@lrnwebcomponents/clean-two/clean-two.js", // @lrnwebcomponents/clean-two/clean-two.js, @lrnwebcomponents/learn-two-theme/learn-two-theme.js, or any other valid HAXcms theme path
+        themePath: "@haxtheweb/clean-two/clean-two.js", // @haxtheweb/clean-two/clean-two.js, @haxtheweb/learn-two-theme/learn-two-theme.js, or any other valid HAXcms theme path
         // banner image used in your theme
         themeImage: "assets/banner.jpg",
         // a HEX color code to represent / accent your theme
