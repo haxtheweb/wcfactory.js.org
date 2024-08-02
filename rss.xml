@@ -4,7 +4,7 @@
   <subtitle>project documentation</subtitle>
   <link href="wcfactory.js.org/rss.xml" rel="self"/>
   <link href="wcfactory.js.org"/>
-  <updated>2024-08-02T22:12:34.701+00:00</updated>
+  <updated>2024-08-02T22:20:09.693+00:00</updated>
   <id>wcfactory.js.org</id>
   <author>
     <name>btopro</name>
@@ -14,7 +14,7 @@
   <entry>
     <title>Home</title>
     <link href="wcfactory.js.org/content/1_home/"/>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
     <id>wcfactory.js.org/content/1_home/</id>
     <content type="html">&lt;h2&gt;Are you sure you want this?&lt;/h2&gt;
 &lt;p&gt;It&#39;s likely that you probably want our &lt;a href=&quot;https://github.com/haxtheweb/create&quot; target=&quot;_blank&quot;&gt;Create&lt;/a&gt; CLI. &lt;code&gt;npm init @haxtheweb&lt;/code&gt;&lt;/p&gt;
@@ -39,7 +39,7 @@
   <entry>
     <title>Contributing</title>
     <link href="wcfactory.js.org/content/2_contributing/"/>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
     <id>wcfactory.js.org/content/2_contributing/</id>
     <content type="html">&lt;p&gt;If you&#39;d like to contribute to WCFactory, &lt;a href=&quot;https://github.com/elmsln/wcfactory&quot;&gt;check out our git repo&lt;/a&gt;
 .&lt;/p&gt;
@@ -53,7 +53,7 @@
   <entry>
     <title>Examples</title>
     <link href="wcfactory.js.org/content/examples/"/>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
     <id>wcfactory.js.org/content/examples/</id>
     <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/haxtheweb/webcomponents&quot;&gt;Webcomponents&lt;/a&gt; is an example of what&#39;s been produced using wcfactory&lt;/p&gt;</content>
   </entry>
@@ -61,7 +61,7 @@
   <entry>
     <title>FAQ</title>
     <link href="wcfactory.js.org/content/faq/"/>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
     <id>wcfactory.js.org/content/faq/</id>
     <content type="html">&lt;h2&gt;There&#39;s a lot going on here, can&#39;t you make this easier?&lt;/h2&gt;
 &lt;p&gt;We&#39;re working on a UI that helps in running the commands but organizing and managing a company library / brand for your organization is tricky. Our tooling reduces issues in setup as much as it can (though we&#39;ll keep trying to make it easier!)&lt;/p&gt;
@@ -90,7 +90,7 @@ polymer build
   <entry>
     <title>Multiple components in one repo</title>
     <link href="wcfactory.js.org/content/multiple-components-1-element/"/>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
     <id>wcfactory.js.org/content/multiple-components-1-element/</id>
     <content type="html">&lt;p&gt;Let&#39;s say you&#39;ve made an element and now you want to add another one.&lt;/p&gt;
 &lt;p&gt;If the element is related or integral to the success of the first element, you might want to consider grouping it in the same &quot;element&quot; for publishing. The ELMSLN team does this all the time via the &quot;lib&quot; convention&lt;/p&gt;
@@ -103,7 +103,7 @@ polymer build
   <entry>
     <title>Terms</title>
     <link href="wcfactory.js.org/content/terms/"/>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
     <id>wcfactory.js.org/content/terms/</id>
     <content type="html">&lt;p&gt;Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.&lt;/p&gt;
 &lt;wikipedia-query show-title=&quot;&quot; search=&quot;Web Components&quot; render-as=&quot;content&quot; __rendercontent=&quot;&quot; __now=&quot;4/4/2019&quot; style=&quot;width: 50%;&quot;&gt;&lt;/wikipedia-query&gt;
@@ -118,7 +118,7 @@ polymer build
   <entry>
     <title>Tutorials</title>
     <link href="wcfactory.js.org/content/tutorials/"/>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
     <id>wcfactory.js.org/content/tutorials/</id>
     <content type="html">&lt;p&gt;Here&#39;s a playlist we&#39;ll update with videos related to WCfactory&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/OeGZHjOoicA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -128,7 +128,7 @@ polymer build
   <entry>
     <title>New to web components?</title>
     <link href="wcfactory.js.org/content/tutorials/new-to-web-components/"/>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
     <id>wcfactory.js.org/content/tutorials/new-to-web-components/</id>
     <content type="html">&lt;p&gt;If you are new to web components and front end development in general, you may want to consider using &lt;a href=&quot;https://open-wc.org/guide/&quot;&gt;Open WC tooling&lt;/a&gt;
  instead.&lt;/p&gt;
@@ -140,7 +140,7 @@ polymer build
   <entry>
     <title>Reusing web components</title>
     <link href="wcfactory.js.org/content/using-existing-web-components/"/>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
     <id>wcfactory.js.org/content/using-existing-web-components/</id>
     <content type="html">&lt;p&gt;So you want to leverage all that goodness from web components [dot] org huh? Awesome! There&#39;s a minor thing you need to do differently from typical yarn repos you might be used to.&lt;/p&gt;
 &lt;p&gt;Because this is a monorepo and we&#39;re optimizing for file space, you need to always do installations from the monorepo (factory) root. Here&#39;s the workflow for adding elements from webcomponents.org / other npm repos&lt;/p&gt;
@@ -166,7 +166,7 @@ polymer build
   <entry>
     <title>Workflow</title>
     <link href="wcfactory.js.org/content/workflow/"/>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
     <id>wcfactory.js.org/content/workflow/</id>
     <content type="html">&lt;h2&gt;wcf element&lt;/h2&gt;
 &lt;p&gt;When it&#39;s finished, go into the &lt;b&gt;elements/element-name&lt;/b&gt;

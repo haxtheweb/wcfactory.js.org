@@ -38,48 +38,48 @@
 'use strict';
 var precacheConfig = [
   [
-    "/content/2_contributing/",
-    "4R31SVQPbImwoUDj"
-  ],
-  [
-    "/content/1_home/",
-    "4R31SVQPbImwoUDj"
-  ],
-  [
-    "/content/examples/",
-    "4R31SVQPbImwoUDj"
-  ],
-  [
-    "/content/faq/",
-    "4R31SVQPbImwoUDj"
+    "/content/multiple-components-1-element/",
+    "kBPsIjcwMmsS28zo"
   ],
   [
     "/content/terms/",
-    "4R31SVQPbImwoUDj"
-  ],
-  [
-    "/content/multiple-components-1-element/",
-    "4R31SVQPbImwoUDj"
+    "kBPsIjcwMmsS28zo"
   ],
   [
     "/content/using-existing-web-components/",
-    "4R31SVQPbImwoUDj"
+    "kBPsIjcwMmsS28zo"
   ],
   [
     "/content/workflow/",
-    "4R31SVQPbImwoUDj"
+    "kBPsIjcwMmsS28zo"
   ],
   [
     "/content/tutorials/",
-    "4R31SVQPbImwoUDj"
+    "kBPsIjcwMmsS28zo"
   ],
   [
     "/content/tutorials/new-to-web-components/",
-    "4R31SVQPbImwoUDj"
+    "kBPsIjcwMmsS28zo"
+  ],
+  [
+    "/content/1_home/",
+    "kBPsIjcwMmsS28zo"
+  ],
+  [
+    "/content/2_contributing/",
+    "kBPsIjcwMmsS28zo"
+  ],
+  [
+    "/content/examples/",
+    "kBPsIjcwMmsS28zo"
+  ],
+  [
+    "/content/faq/",
+    "kBPsIjcwMmsS28zo"
   ],
   [
     "/",
-    "4R31SVQPbImwoUDj"
+    "kBPsIjcwMmsS28zo"
   ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');

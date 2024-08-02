@@ -3,7 +3,7 @@
   <title>wcfactory.js.org</title>
   <link href="wcfactory.js.org/atom.xml" rel="self" />
   <subtitle>project documentation</subtitle>
-  <updated>2024-08-02T22:12:34.701+00:00</updated>
+  <updated>2024-08-02T22:20:09.693+00:00</updated>
   <author>
       <name>btopro</name>
   </author>
@@ -11,8 +11,8 @@
   <entry>
     <title>Home</title>
     <id>wcfactory.js.org/content/1_home/</id>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
-    <published>2024-08-02T22:12:34.701+00:00</published>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
+    <published>2024-08-02T22:20:09.693+00:00</published>
     <summary></summary>
     <link href="wcfactory.js.org/content/1_home/"/>
     <content type="html">
@@ -39,8 +39,8 @@
   <entry>
     <title>Contributing</title>
     <id>wcfactory.js.org/content/2_contributing/</id>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
-    <published>2024-08-02T22:12:34.701+00:00</published>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
+    <published>2024-08-02T22:20:09.693+00:00</published>
     <summary></summary>
     <link href="wcfactory.js.org/content/2_contributing/"/>
     <content type="html">
@@ -56,8 +56,8 @@
   <entry>
     <title>Examples</title>
     <id>wcfactory.js.org/content/examples/</id>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
-    <published>2024-08-02T22:12:34.701+00:00</published>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
+    <published>2024-08-02T22:20:09.693+00:00</published>
     <summary></summary>
     <link href="wcfactory.js.org/content/examples/"/>
     <content type="html">
@@ -67,8 +67,8 @@
   <entry>
     <title>FAQ</title>
     <id>wcfactory.js.org/content/faq/</id>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
-    <published>2024-08-02T22:12:34.701+00:00</published>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
+    <published>2024-08-02T22:20:09.693+00:00</published>
     <summary></summary>
     <link href="wcfactory.js.org/content/faq/"/>
     <content type="html">
@@ -99,8 +99,8 @@ polymer build
   <entry>
     <title>Multiple components in one repo</title>
     <id>wcfactory.js.org/content/multiple-components-1-element/</id>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
-    <published>2024-08-02T22:12:34.701+00:00</published>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
+    <published>2024-08-02T22:20:09.693+00:00</published>
     <summary></summary>
     <link href="wcfactory.js.org/content/multiple-components-1-element/"/>
     <content type="html">
@@ -115,8 +115,8 @@ polymer build
   <entry>
     <title>Terms</title>
     <id>wcfactory.js.org/content/terms/</id>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
-    <published>2024-08-02T22:12:34.701+00:00</published>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
+    <published>2024-08-02T22:20:09.693+00:00</published>
     <summary></summary>
     <link href="wcfactory.js.org/content/terms/"/>
     <content type="html">
@@ -133,8 +133,8 @@ polymer build
   <entry>
     <title>Tutorials</title>
     <id>wcfactory.js.org/content/tutorials/</id>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
-    <published>2024-08-02T22:12:34.701+00:00</published>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
+    <published>2024-08-02T22:20:09.693+00:00</published>
     <summary></summary>
     <link href="wcfactory.js.org/content/tutorials/"/>
     <content type="html">
@@ -146,8 +146,8 @@ polymer build
   <entry>
     <title>New to web components?</title>
     <id>wcfactory.js.org/content/tutorials/new-to-web-components/</id>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
-    <published>2024-08-02T22:12:34.701+00:00</published>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
+    <published>2024-08-02T22:20:09.693+00:00</published>
     <summary></summary>
     <link href="wcfactory.js.org/content/tutorials/new-to-web-components/"/>
     <content type="html">
@@ -161,8 +161,8 @@ polymer build
   <entry>
     <title>Reusing web components</title>
     <id>wcfactory.js.org/content/using-existing-web-components/</id>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
-    <published>2024-08-02T22:12:34.701+00:00</published>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
+    <published>2024-08-02T22:20:09.693+00:00</published>
     <summary></summary>
     <link href="wcfactory.js.org/content/using-existing-web-components/"/>
     <content type="html">
@@ -190,8 +190,8 @@ polymer build
   <entry>
     <title>Workflow</title>
     <id>wcfactory.js.org/content/workflow/</id>
-    <updated>2024-08-02T22:12:34.701+00:00</updated>
-    <published>2024-08-02T22:12:34.701+00:00</published>
+    <updated>2024-08-02T22:20:09.693+00:00</updated>
+    <published>2024-08-02T22:20:09.693+00:00</published>
     <summary></summary>
     <link href="wcfactory.js.org/content/workflow/"/>
     <content type="html">
