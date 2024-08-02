@@ -12,8 +12,8 @@
    "title":"Examples",
    "created": "",
    "location":"/content/examples/",
-   "description":"LRNWebcomponents is an example of what's been produced using wcfactory",
-   "text":"LRNWebcomponents is an example of what's been produced using wcfactory"
+   "description":"Webcomponents is an example of what's been produced using wcfactory",
+   "text":"Webcomponents is an example of what's been produced using wcfactory"
   },
   {
    "id":"FAQ",
@@ -28,8 +28,8 @@
    "title":"Home",
    "created": "",
    "location":"/content/1_home/",
-   "description":"WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand..Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustaining web component librariesPolyfills and dependencies to get startedPublishing elements to webcomponents.org and npmjs.comWCFactory was built and maintained by the Penn State ELMS: Learning Network community. You can see things we've built with this tooling using this website itself. This website though is an example of what's possible with web components and the factory -- this site is built using HAXcms which is entirely composed of web component factory generated elements from a single monorepo.",
-   "text":"WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand..Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustaining web component librariesPolyfills and dependencies to get startedPublishing elements to webcomponents.org and npmjs.comWCFactory was built and maintained by the Penn State ELMS: Learning Network community. You can see things we've built with this tooling using this website itself. This website though is an example of what's possible with web components and the factory -- this site is built using HAXcms which is entirely composed of web component factory generated elements from a single monorepo."
+   "description":"Are you sure you want this?It's likely that you probably want our Create CLI. npm init @haxthewebWCFactory is short for Web component factory. It's tooling that automates the need to configure and understand..Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustaining web component librariesPolyfills and dependencies to get startedPublishing elements to webcomponents.org and npmjs.comWCFactory was built and maintained by the Penn State ELMS: Learning Network community. You can see things we've built with this tooling using this website itself. This website though is an example of what's possible with web components and the factory -- this site is built using HAXcms which is entirely composed of web component factory generated elements from a single monorepo.",
+   "text":"Are you sure you want this?It's likely that you probably want our Create CLI. npm init @haxthewebWCFactory is short for Web component factory. It's tooling that automates the need to configure and understand..Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustaining web component librariesPolyfills and dependencies to get startedPublishing elements to webcomponents.org and npmjs.comWCFactory was built and maintained by the Penn State ELMS: Learning Network community. You can see things we've built with this tooling using this website itself. This website though is an example of what's possible with web components and the factory -- this site is built using HAXcms which is entirely composed of web component factory generated elements from a single monorepo."
   },
   {
    "id":"Multiple components in one repo",
