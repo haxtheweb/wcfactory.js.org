@@ -38,48 +38,28 @@
 'use strict';
 var precacheConfig = [
   [
-    "/content/multiple-components-1-element/",
-    "kBPsIjcwMmsS28zo"
-  ],
-  [
-    "/content/terms/",
-    "kBPsIjcwMmsS28zo"
+    "/content/2_contributing/",
+    "mnELh3GCul2v7wxZ"
   ],
   [
     "/content/using-existing-web-components/",
-    "kBPsIjcwMmsS28zo"
-  ],
-  [
-    "/content/workflow/",
-    "kBPsIjcwMmsS28zo"
-  ],
-  [
-    "/content/tutorials/",
-    "kBPsIjcwMmsS28zo"
-  ],
-  [
-    "/content/tutorials/new-to-web-components/",
-    "kBPsIjcwMmsS28zo"
+    "mnELh3GCul2v7wxZ"
   ],
   [
     "/content/1_home/",
-    "kBPsIjcwMmsS28zo"
+    "mnELh3GCul2v7wxZ"
   ],
   [
-    "/content/2_contributing/",
-    "kBPsIjcwMmsS28zo"
+    "/content/new-to-web-components/",
+    "mnELh3GCul2v7wxZ"
   ],
   [
     "/content/examples/",
-    "kBPsIjcwMmsS28zo"
-  ],
-  [
-    "/content/faq/",
-    "kBPsIjcwMmsS28zo"
+    "mnELh3GCul2v7wxZ"
   ],
   [
     "/",
-    "kBPsIjcwMmsS28zo"
+    "mnELh3GCul2v7wxZ"
   ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');

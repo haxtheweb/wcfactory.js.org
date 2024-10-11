@@ -1,3 +1,4 @@
 {
-  "title": "Home"
+  "title": "Home",
+  "order": -10000
 }

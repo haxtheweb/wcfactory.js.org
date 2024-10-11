@@ -16,67 +16,27 @@
    "text":"Webcomponents is an example of what's been produced using wcfactory"
   },
   {
-   "id":"FAQ",
-   "title":"FAQ",
-   "created": "",
-   "location":"/content/faq/",
-   "description":"There's a lot going on here, can't you make this easier?We're working on a UI that helps in running the commands but organizing and managing a company library / brand for your organization is tricky. Our tooling reduces issues in setup as much as it can (though we'll keep trying to make it easier!)Do I have to use Polymer to use this?While we do use Polymer CLI this tool is able to build and analyze any web component regardless of library.What commands do I need to install this?  yarn global add @wcfactory/cliyarn global add polymer-cliyarn global add lernaDo I need to publish this to NPM?Yes and No. We highly recommend publishing your elements to NPM as part of your build process and quality assurance. That doesn't always make sense to get off the ground so here's what you can do to get "building" without NPM.  # assuming your factory name is ourelements# also assuming you have your company installed in ~/Documents/companywcf build# answer the prompts, assuming name of the build is my",
-   "text":"There's a lot going on here, can't you make this easier?We're working on a UI that helps in running the commands but organizing and managing a company library / brand for your organization is tricky. Our tooling reduces issues in setup as much as it can (though we'll keep trying to make it easier!)Do I have to use Polymer to use this?While we do use Polymer CLI this tool is able to build and analyze any web component regardless of library.What commands do I need to install this?  yarn global add @wcfactory/cliyarn global add polymer-cliyarn global add lernaDo I need to publish this to NPM?Yes and No. We highly recommend publishing your elements to NPM as part of your build process and quality assurance. That doesn't always make sense to get off the ground so here's what you can do to get "building" without NPM.  # assuming your factory name is ourelements# also assuming you have your company installed in ~/Documents/companywcf build# answer the prompts, assuming name of the build is my"
-  },
-  {
    "id":"Home",
    "title":"Home",
    "created": "",
    "location":"/content/1_home/",
-   "description":"Are you sure you want this?It's likely that you probably want our Create CLI. npm init @haxthewebWCFactory is short for Web component factory. It's tooling that automates the need to configure and understand..Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustaining web component librariesPolyfills and dependencies to get startedPublishing elements to webcomponents.org and npmjs.comWCFactory was built and maintained by the Penn State ELMS: Learning Network community. You can see things we've built with this tooling using this website itself. This website though is an example of what's possible with web components and the factory -- this site is built using HAXcms which is entirely composed of web component factory generated elements from a single monorepo.",
-   "text":"Are you sure you want this?It's likely that you probably want our Create CLI. npm init @haxthewebWCFactory is short for Web component factory. It's tooling that automates the need to configure and understand..Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustaining web component librariesPolyfills and dependencies to get startedPublishing elements to webcomponents.org and npmjs.comWCFactory was built and maintained by the Penn State ELMS: Learning Network community. You can see things we've built with this tooling using this website itself. This website though is an example of what's possible with web components and the factory -- this site is built using HAXcms which is entirely composed of web component factory generated elements from a single monorepo."
-  },
-  {
-   "id":"Multiple components in one repo",
-   "title":"Multiple components in one repo",
-   "created": "",
-   "location":"/content/multiple-components-1-element/",
-   "description":"Let's say you've made an element and now you want to add another one.If the element is related or integral to the success of the first element, you might want to consider grouping it in the same "element" for publishing. The ELMSLN team does this all the time via the "lib" conventionBy placing these sub-elements in the lib directory you lose out on the separation of concerns / tooling capabilities of the yarn start command but you gain simplicity of managing many related elements.We recommend making the lib directory if you generate an abstraction from the element as your working on it via the tooling. The tooling is there to help ease you into the workflow and keep things abstracted into MVC, but it doesn't mean you need to be constrained by it!",
-   "text":"Let's say you've made an element and now you want to add another one.If the element is related or integral to the success of the first element, you might want to consider grouping it in the same "element" for publishing. The ELMSLN team does this all the time via the "lib" conventionBy placing these sub-elements in the lib directory you lose out on the separation of concerns / tooling capabilities of the yarn start command but you gain simplicity of managing many related elements.We recommend making the lib directory if you generate an abstraction from the element as your working on it via the tooling. The tooling is there to help ease you into the workflow and keep things abstracted into MVC, but it doesn't mean you need to be constrained by it!"
+   "description":"Are you sure you want this?It's likely that you probably want our Create CLI. npm init @haxtheweb",
+   "text":"Are you sure you want this?It's likely that you probably want our Create CLI. npm init @haxtheweb"
   },
   {
    "id":"New to web components?",
    "title":"New to web components?",
    "created": "",
-   "location":"/content/tutorials/new-to-web-components/",
-   "description":"If you are new to web components and front end development in general, you may want to consider using Open WC tooling instead.Open WC is a community dedicated to documentation, tooling and guides associated with web components more generally. It's a great place to start if you are just trying to make a few elements or if you want to build elements for use in your first project.WCFactory is what you'll want to invest time in once you've gotten enough elements that you need a way of managing them all, and managing them across projects / teams. For just getting started though, give Open WC a shot, you won't regret it!",
-   "text":"If you are new to web components and front end development in general, you may want to consider using Open WC tooling instead.Open WC is a community dedicated to documentation, tooling and guides associated with web components more generally. It's a great place to start if you are just trying to make a few elements or if you want to build elements for use in your first project.WCFactory is what you'll want to invest time in once you've gotten enough elements that you need a way of managing them all, and managing them across projects / teams. For just getting started though, give Open WC a shot, you won't regret it!"
+   "location":"/content/new-to-web-components/",
+   "description":"If you are new to web components and front end development in general, you may want to consider using HAX CLI.npm init @haxtheweb",
+   "text":"If you are new to web components and front end development in general, you may want to consider using HAX CLI.npm init @haxtheweb"
   },
   {
    "id":"Reusing web components",
    "title":"Reusing web components",
    "created": "",
    "location":"/content/using-existing-web-components/",
-   "description":"So you want to leverage all that goodness from web components [dot] org huh? Awesome! There's a minor thing you need to do differently from typical yarn repos you might be used to.Because this is a monorepo and we're optimizing for file space, you need to always do installations from the monorepo (factory) root. Here's the workflow for adding elements from webcomponents.org / other npm reposfind something you like, like @lrnwebcomponents/code-editorgo to the element you want to use this in and add it manually to the package.json (factories/my-factory/elements/my-element/package.json)go to the factory floor / monorepo root (factories/my-factory)run yarn installProfitThis is a little annoying (ehhh what's up doc) for sure but VS Code plugins help ensure that you add things to the package.json of the correct version in the dependencies block. All of our element library implementations have a dependencies and devDependencies block automatically.",
-   "text":"So you want to leverage all that goodness from web components [dot] org huh? Awesome! There's a minor thing you need to do differently from typical yarn repos you might be used to.Because this is a monorepo and we're optimizing for file space, you need to always do installations from the monorepo (factory) root. Here's the workflow for adding elements from webcomponents.org / other npm reposfind something you like, like @lrnwebcomponents/code-editorgo to the element you want to use this in and add it manually to the package.json (factories/my-factory/elements/my-element/package.json)go to the factory floor / monorepo root (factories/my-factory)run yarn installProfitThis is a little annoying (ehhh what's up doc) for sure but VS Code plugins help ensure that you add things to the package.json of the correct version in the dependencies block. All of our element library implementations have a dependencies and devDependencies block automatically."
-  },
-  {
-   "id":"Terms",
-   "title":"Terms",
-   "created": "",
-   "location":"/content/terms/",
-   "description":"Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Monorepo - A singular repository in version control which is for the creation and orchestration of many smaller projects. A meta-project in a single repository to simplify check out.Polyfill - Javascript loaded into the browser to teach it out to behave like newer standards prior to that platform adopting them. Polyfills are only needed on Edge (though not soon), IE 11 and some older versions of ever green browsers (generally 2012 through 2017).",
-   "text":"Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.Monorepo - A singular repository in version control which is for the creation and orchestration of many smaller projects. A meta-project in a single repository to simplify check out.Polyfill - Javascript loaded into the browser to teach it out to behave like newer standards prior to that platform adopting them. Polyfills are only needed on Edge (though not soon), IE 11 and some older versions of ever green browsers (generally 2012 through 2017)."
-  },
-  {
-   "id":"Tutorials",
-   "title":"Tutorials",
-   "created": "",
-   "location":"/content/tutorials/",
-   "description":"Here's a playlist we'll update with videos related to WCfactory",
-   "text":"Here's a playlist we'll update with videos related to WCfactory"
-  },
-  {
-   "id":"Workflow",
-   "title":"Workflow",
-   "created": "",
-   "location":"/content/workflow/",
-   "description":"wcf elementWhen it's finished, go into the elements/element-name directory and run yarn start. Then open it in a code editor and work within the elements/element-name/src directoryyarn start (monorepo level)At the factory level you can also run yarn start which will invoke your storybook to build for previewing locally. Make sure all your elements exist (or that you have some in general). Also, be aware that after you stop your storybook you'll need to run yarn install again. This is a known issue without a real way around it currently.",
-   "text":"wcf elementWhen it's finished, go into the elements/element-name directory and run yarn start. Then open it in a code editor and work within the elements/element-name/src directoryyarn start (monorepo level)At the factory level you can also run yarn start which will invoke your storybook to build for previewing locally. Make sure all your elements exist (or that you have some in general). Also, be aware that after you stop your storybook you'll need to run yarn install again. This is a known issue without a real way around it currently."
+   "description":"So you want to leverage all that goodness from web components [dot] org huh? Awesome! There's a minor thing you need to do differently from typical yarn repos you might be used to.Because this is a monorepo and we're optimizing for file space, you need to always do installations from the monorepo (factory) root. Here's the workflow for adding elements from webcomponents.org / other npm reposfind something you like, like @haxtheweb/code-editorgo to the element you want to use this in and add it manually to the package.json (factories/my-factory/elements/my-element/package.json)go to the factory floor / monorepo root (factories/my-factory)run yarn installProfitThis is a little annoying (ehhh what's up doc) for sure but VS Code plugins help ensure that you add things to the package.json of the correct version in the dependencies block. All of our element library implementations have a dependencies and devDependencies block automatically.",
+   "text":"So you want to leverage all that goodness from web components [dot] org huh? Awesome! There's a minor thing you need to do differently from typical yarn repos you might be used to.Because this is a monorepo and we're optimizing for file space, you need to always do installations from the monorepo (factory) root. Here's the workflow for adding elements from webcomponents.org / other npm reposfind something you like, like @haxtheweb/code-editorgo to the element you want to use this in and add it manually to the package.json (factories/my-factory/elements/my-element/package.json)go to the factory floor / monorepo root (factories/my-factory)run yarn installProfitThis is a little annoying (ehhh what's up doc) for sure but VS Code plugins help ensure that you add things to the package.json of the correct version in the dependencies block. All of our element library implementations have a dependencies and devDependencies block automatically."
   }
 ]

@@ -2,70 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <pre><code>&lt;url&gt;
   &lt;loc&gt;wcfactory.js.org/content/1_home/&lt;/loc&gt;
-  &lt;lastmod&gt;Fri Aug 02 2024 22:20:09 GMT+0000 (Coordinated Universal Time)&lt;/lastmod&gt;
+  &lt;lastmod&gt;Fri Oct 11 2024 15:05:42 GMT+0000 (Coordinated Universal Time)&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
 
 &lt;url&gt;
   &lt;loc&gt;wcfactory.js.org/content/2_contributing/&lt;/loc&gt;
-  &lt;lastmod&gt;Fri Aug 02 2024 22:20:09 GMT+0000 (Coordinated Universal Time)&lt;/lastmod&gt;
+  &lt;lastmod&gt;Fri Oct 11 2024 15:05:42 GMT+0000 (Coordinated Universal Time)&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
 
 &lt;url&gt;
   &lt;loc&gt;wcfactory.js.org/content/examples/&lt;/loc&gt;
-  &lt;lastmod&gt;Fri Aug 02 2024 22:20:09 GMT+0000 (Coordinated Universal Time)&lt;/lastmod&gt;
+  &lt;lastmod&gt;Fri Oct 11 2024 15:05:42 GMT+0000 (Coordinated Universal Time)&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
 
 &lt;url&gt;
-  &lt;loc&gt;wcfactory.js.org/content/faq/&lt;/loc&gt;
-  &lt;lastmod&gt;Fri Aug 02 2024 22:20:09 GMT+0000 (Coordinated Universal Time)&lt;/lastmod&gt;
-  &lt;changefreq&gt;daily&lt;/changefreq&gt;
-  &lt;priority&gt;1.0&lt;/priority&gt;
-&lt;/url&gt;
-
-&lt;url&gt;
-  &lt;loc&gt;wcfactory.js.org/content/multiple-components-1-element/&lt;/loc&gt;
-  &lt;lastmod&gt;Fri Aug 02 2024 22:20:09 GMT+0000 (Coordinated Universal Time)&lt;/lastmod&gt;
-  &lt;changefreq&gt;daily&lt;/changefreq&gt;
-  &lt;priority&gt;1.0&lt;/priority&gt;
-&lt;/url&gt;
-
-&lt;url&gt;
-  &lt;loc&gt;wcfactory.js.org/content/terms/&lt;/loc&gt;
-  &lt;lastmod&gt;Fri Aug 02 2024 22:20:09 GMT+0000 (Coordinated Universal Time)&lt;/lastmod&gt;
-  &lt;changefreq&gt;daily&lt;/changefreq&gt;
-  &lt;priority&gt;1.0&lt;/priority&gt;
-&lt;/url&gt;
-
-&lt;url&gt;
-  &lt;loc&gt;wcfactory.js.org/content/tutorials/&lt;/loc&gt;
-  &lt;lastmod&gt;Fri Aug 02 2024 22:20:09 GMT+0000 (Coordinated Universal Time)&lt;/lastmod&gt;
-  &lt;changefreq&gt;daily&lt;/changefreq&gt;
-  &lt;priority&gt;1.0&lt;/priority&gt;
-&lt;/url&gt;
-
-&lt;url&gt;
-  &lt;loc&gt;wcfactory.js.org/content/tutorials/new-to-web-components/&lt;/loc&gt;
-  &lt;lastmod&gt;Fri Aug 02 2024 22:20:09 GMT+0000 (Coordinated Universal Time)&lt;/lastmod&gt;
+  &lt;loc&gt;wcfactory.js.org/content/new-to-web-components/&lt;/loc&gt;
+  &lt;lastmod&gt;Fri Oct 11 2024 15:05:42 GMT+0000 (Coordinated Universal Time)&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;
 
 &lt;url&gt;
   &lt;loc&gt;wcfactory.js.org/content/using-existing-web-components/&lt;/loc&gt;
-  &lt;lastmod&gt;Fri Aug 02 2024 22:20:09 GMT+0000 (Coordinated Universal Time)&lt;/lastmod&gt;
-  &lt;changefreq&gt;daily&lt;/changefreq&gt;
-  &lt;priority&gt;1.0&lt;/priority&gt;
-&lt;/url&gt;
-
-&lt;url&gt;
-  &lt;loc&gt;wcfactory.js.org/content/workflow/&lt;/loc&gt;
-  &lt;lastmod&gt;Fri Aug 02 2024 22:20:09 GMT+0000 (Coordinated Universal Time)&lt;/lastmod&gt;
+  &lt;lastmod&gt;Fri Oct 11 2024 15:05:42 GMT+0000 (Coordinated Universal Time)&lt;/lastmod&gt;
   &lt;changefreq&gt;daily&lt;/changefreq&gt;
   &lt;priority&gt;1.0&lt;/priority&gt;
 &lt;/url&gt;

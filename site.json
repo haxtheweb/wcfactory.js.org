@@ -1,5 +1,5 @@
 {
-  "id": "#c03b1738-7ca6-bf6c-0a8c-fba24e585169",
+  "id": "#4a3c3041-72b9-35fa-a50f-aa9c26f9e250",
   "title": "wcfactory.js.org",
   "author": "btopro",
   "description": "project documentation",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "wcfactory.js.org",
-      "created": 1722637235999,
-      "updated": 1722637235999,
+      "created": 1728659168427,
+      "updated": 1728659168427,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -49,209 +49,17 @@
   },
   "items": [
     {
-      "id": "--content-multiple-components-1-element-md",
-      "indent": 0,
-      "location": "./pages/multiple-components-1-element.md",
-      "slug": "content/multiple-components-1-element/",
-      "order": 0,
-      "title": "Multiple components in one repo",
-      "description": "Multiple components in one repo",
-      "parent": null,
-      "metadata": {
-        "created": 1722637210,
-        "updated": 1722637210,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "eleventy": {
-          "version": "1.0.1",
-          "generator": "Eleventy v1.0.1",
-          "env": {
-            "config": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app/.eleventy.js",
-            "root": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app",
-            "source": "cli"
-          }
-        },
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Multiple components in one repo"
-      }
-    },
-    {
-      "id": "--content-terms-md",
-      "indent": 0,
-      "location": "./pages/terms.md",
-      "slug": "content/terms/",
-      "order": 1,
-      "title": "Terms",
-      "description": "Terms",
-      "parent": null,
-      "metadata": {
-        "created": 1722637210,
-        "updated": 1722637210,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "eleventy": {
-          "version": "1.0.1",
-          "generator": "Eleventy v1.0.1",
-          "env": {
-            "config": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app/.eleventy.js",
-            "root": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app",
-            "source": "cli"
-          }
-        },
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Terms"
-      }
-    },
-    {
-      "id": "--content-using-existing-web-components-md",
-      "indent": 0,
-      "location": "./pages/using-existing-web-components.md",
-      "slug": "content/using-existing-web-components/",
-      "order": 2,
-      "title": "Reusing web components",
-      "description": "Reusing web components",
-      "parent": null,
-      "metadata": {
-        "created": 1722637210,
-        "updated": 1722637210,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "eleventy": {
-          "version": "1.0.1",
-          "generator": "Eleventy v1.0.1",
-          "env": {
-            "config": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app/.eleventy.js",
-            "root": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app",
-            "source": "cli"
-          }
-        },
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Reusing web components"
-      }
-    },
-    {
-      "id": "--content-workflow-md",
-      "indent": 0,
-      "location": "./pages/workflow.md",
-      "slug": "content/workflow/",
-      "order": 3,
-      "title": "Workflow",
-      "description": "Workflow",
-      "parent": null,
-      "metadata": {
-        "created": 1722637210,
-        "updated": 1722637210,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "eleventy": {
-          "version": "1.0.1",
-          "generator": "Eleventy v1.0.1",
-          "env": {
-            "config": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app/.eleventy.js",
-            "root": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app",
-            "source": "cli"
-          }
-        },
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Workflow"
-      }
-    },
-    {
-      "id": "--content-tutorials-index-md",
-      "indent": 0,
-      "location": "./pages/tutorials/index.md",
-      "slug": "content/tutorials/",
-      "order": 4,
-      "title": "Tutorials",
-      "description": "Tutorials",
-      "parent": null,
-      "metadata": {
-        "created": 1722637210,
-        "updated": 1722637210,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "eleventy": {
-          "version": "1.0.1",
-          "generator": "Eleventy v1.0.1",
-          "env": {
-            "config": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app/.eleventy.js",
-            "root": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app",
-            "source": "cli"
-          }
-        },
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Tutorials"
-      }
-    },
-    {
-      "id": "--content-tutorials-new-to-web-components-md",
-      "indent": 0,
-      "location": "./pages/tutorials/new-to-web-components.md",
-      "slug": "content/tutorials/new-to-web-components/",
-      "order": 5,
-      "title": "New to web components?",
-      "description": "New to web components?",
-      "parent": "--content-tutorials-index-md",
-      "metadata": {
-        "created": 1722637210,
-        "updated": 1722637210,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "eleventy": {
-          "version": "1.0.1",
-          "generator": "Eleventy v1.0.1",
-          "env": {
-            "config": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app/.eleventy.js",
-            "root": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app",
-            "source": "cli"
-          }
-        },
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "New to web components?"
-      }
-    },
-    {
       "id": "--content-1_home-md",
       "indent": 0,
       "location": "./pages/1_home.md",
       "slug": "content/1_home/",
-      "order": 6,
+      "order": -10000,
       "title": "Home",
       "description": "Home",
       "parent": null,
       "metadata": {
-        "created": 1722637210,
-        "updated": 1722637210,
+        "created": 1728659143,
+        "updated": 1728659143,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -269,7 +77,41 @@
           "content"
         ],
         "layout": "content.liquid",
-        "title": "Home"
+        "title": "Home",
+        "order": -10000
+      }
+    },
+    {
+      "id": "--content-new-to-web-components-md",
+      "indent": 0,
+      "location": "./pages/new-to-web-components.md",
+      "slug": "content/new-to-web-components/",
+      "order": -10,
+      "title": "New to web components?",
+      "description": "New to web components?",
+      "parent": null,
+      "metadata": {
+        "created": 1728659143,
+        "updated": 1728659143,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "eleventy": {
+          "version": "1.0.1",
+          "generator": "Eleventy v1.0.1",
+          "env": {
+            "config": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app/.eleventy.js",
+            "root": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app",
+            "source": "cli"
+          }
+        },
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "New to web components?",
+        "order": -10
       }
     },
     {
@@ -277,13 +119,13 @@
       "indent": 0,
       "location": "./pages/2_contributing.md",
       "slug": "content/2_contributing/",
-      "order": 7,
+      "order": 0,
       "title": "Contributing",
       "description": "Contributing",
       "parent": null,
       "metadata": {
-        "created": 1722637210,
-        "updated": 1722637210,
+        "created": 1728659143,
+        "updated": 1728659143,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -305,17 +147,49 @@
       }
     },
     {
+      "id": "--content-using-existing-web-components-md",
+      "indent": 0,
+      "location": "./pages/using-existing-web-components.md",
+      "slug": "content/using-existing-web-components/",
+      "order": 1,
+      "title": "Reusing web components",
+      "description": "Reusing web components",
+      "parent": null,
+      "metadata": {
+        "created": 1728659143,
+        "updated": 1728659143,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "eleventy": {
+          "version": "1.0.1",
+          "generator": "Eleventy v1.0.1",
+          "env": {
+            "config": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app/.eleventy.js",
+            "root": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app",
+            "source": "cli"
+          }
+        },
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Reusing web components"
+      }
+    },
+    {
       "id": "--content-examples-md",
       "indent": 0,
       "location": "./pages/examples.md",
       "slug": "content/examples/",
-      "order": 8,
+      "order": 4,
       "title": "Examples",
       "description": "Examples",
       "parent": null,
       "metadata": {
-        "created": 1722637210,
-        "updated": 1722637210,
+        "created": 1728659143,
+        "updated": 1728659143,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -334,38 +208,6 @@
         ],
         "layout": "content.liquid",
         "title": "Examples"
-      }
-    },
-    {
-      "id": "--content-faq-md",
-      "indent": 0,
-      "location": "./pages/faq.md",
-      "slug": "content/faq/",
-      "order": 9,
-      "title": "FAQ",
-      "description": "FAQ",
-      "parent": null,
-      "metadata": {
-        "created": 1722637210,
-        "updated": 1722637210,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "eleventy": {
-          "version": "1.0.1",
-          "generator": "Eleventy v1.0.1",
-          "env": {
-            "config": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app/.eleventy.js",
-            "root": "/home/runner/work/wcfactory.js.org/wcfactory.js.org/app",
-            "source": "cli"
-          }
-        },
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "FAQ"
       }
     }
   ]

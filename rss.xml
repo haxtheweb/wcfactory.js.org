@@ -4,7 +4,7 @@
   <subtitle>project documentation</subtitle>
   <link href="wcfactory.js.org/rss.xml" rel="self"/>
   <link href="wcfactory.js.org"/>
-  <updated>2024-08-02T22:20:09.693+00:00</updated>
+  <updated>2024-10-11T15:05:42.616+00:00</updated>
   <id>wcfactory.js.org</id>
   <author>
     <name>btopro</name>
@@ -14,32 +14,16 @@
   <entry>
     <title>Home</title>
     <link href="wcfactory.js.org/content/1_home/"/>
-    <updated>2024-08-02T22:20:09.693+00:00</updated>
+    <updated>2024-10-11T15:05:42.616+00:00</updated>
     <id>wcfactory.js.org/content/1_home/</id>
     <content type="html">&lt;h2&gt;Are you sure you want this?&lt;/h2&gt;
-&lt;p&gt;It&#39;s likely that you probably want our &lt;a href=&quot;https://github.com/haxtheweb/create&quot; target=&quot;_blank&quot;&gt;Create&lt;/a&gt; CLI. &lt;code&gt;npm init @haxtheweb&lt;/code&gt;&lt;/p&gt;
-&lt;p style=&quot;width: 100%;&quot;&gt;WCFactory is short for Web component factory. It&#39;s tooling that automates the need to configure and understand..&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;Yarn Workspaces&lt;/li&gt;
-&lt;li&gt;Lerna monorepos&lt;/li&gt;
-&lt;li&gt;Build routines for web components&lt;/li&gt;
-&lt;li&gt;Building and sustaining web component libraries&lt;/li&gt;
-&lt;li&gt;Polyfills and dependencies to get started&lt;/li&gt;
-&lt;li&gt;Publishing elements to &lt;a href=&quot;https://webcomponents.org/&quot;&gt;webcomponents.org&lt;/a&gt;
- and &lt;a href=&quot;https://npmjs.com&quot;&gt;npmjs.com&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;WCFactory was built and maintained by the Penn State ELMS: Learning Network community. You can see things we&#39;ve built with this tooling using this website itself. This website though is an example of what&#39;s possible with web components and the factory -- this site is built using &lt;a href=&quot;https://haxtheweb.org/&quot;&gt;HAXcms&lt;/a&gt;
- which is entirely composed of &lt;a href=&quot;https://www.webcomponents.org/author/elmsln&quot;&gt;web component factory generated elements&lt;/a&gt;
- from a &lt;a href=&quot;https://github.com/haxtheweb/webcomponents&quot;&gt;single monorepo&lt;/a&gt;
-.&lt;/p&gt;
-&lt;video-player accent-color=&quot;light-blue&quot; dark=&quot;&quot; lang=&quot;en&quot; preload=&quot;metadata&quot; source=&quot;https://www.youtube.com/watch?v=kWmtOFwcXyE&quot; sticky-corner=&quot;top-right&quot; youtube-id=&quot;kWmtOFwcXyE&quot; iframed=&quot;&quot; source-type=&quot;youtube&quot; is-a11y-media=&quot;&quot; is-youtube=&quot;&quot; style=&quot;width: 50%; margin: 0px auto; display: block;&quot; resource=&quot;#678e2e34-6108-93d6-e2cf-a19e4feb7558&quot; prefix=&quot;oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org &quot; colors=&quot;[object Object]&quot; schema-resource-id=&quot;#678e2e34-6108-93d6-e2cf-a19e4feb7558&quot; sources=&quot;[]&quot; tracks=&quot;[]&quot;&gt;&lt;/video-player&gt;
-</content>
+&lt;p&gt;It&#39;s likely that you probably want our &lt;a href=&quot;https://github.com/haxtheweb/create&quot; target=&quot;_blank&quot;&gt;Create&lt;/a&gt; CLI. &lt;code&gt;npm init @haxtheweb&lt;/code&gt;&lt;/p&gt;</content>
   </entry>
   
   <entry>
     <title>Contributing</title>
     <link href="wcfactory.js.org/content/2_contributing/"/>
-    <updated>2024-08-02T22:20:09.693+00:00</updated>
+    <updated>2024-10-11T15:05:42.616+00:00</updated>
     <id>wcfactory.js.org/content/2_contributing/</id>
     <content type="html">&lt;p&gt;If you&#39;d like to contribute to WCFactory, &lt;a href=&quot;https://github.com/elmsln/wcfactory&quot;&gt;check out our git repo&lt;/a&gt;
 .&lt;/p&gt;
@@ -53,98 +37,33 @@
   <entry>
     <title>Examples</title>
     <link href="wcfactory.js.org/content/examples/"/>
-    <updated>2024-08-02T22:20:09.693+00:00</updated>
+    <updated>2024-10-11T15:05:42.616+00:00</updated>
     <id>wcfactory.js.org/content/examples/</id>
     <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/haxtheweb/webcomponents&quot;&gt;Webcomponents&lt;/a&gt; is an example of what&#39;s been produced using wcfactory&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <title>FAQ</title>
-    <link href="wcfactory.js.org/content/faq/"/>
-    <updated>2024-08-02T22:20:09.693+00:00</updated>
-    <id>wcfactory.js.org/content/faq/</id>
-    <content type="html">&lt;h2&gt;There&#39;s a lot going on here, can&#39;t you make this easier?&lt;/h2&gt;
-&lt;p&gt;We&#39;re working on a UI that helps in running the commands but organizing and managing a company library / brand for your organization is tricky. Our tooling reduces issues in setup as much as it can (though we&#39;ll keep trying to make it easier!)&lt;/p&gt;
-&lt;h2&gt;Do I have to use Polymer to use this?&lt;/h2&gt;
-&lt;p&gt;While we do use Polymer CLI this tool is able to build and analyze any web component regardless of library.&lt;/p&gt;
-&lt;h2&gt;What commands do I need to install this?&lt;/h2&gt;
-&lt;code-sample copy-clipboard-button=&quot;copy-clipboard-button&quot; style=&quot;width: 50%;&quot;&gt;  &lt;template preserve-content=&quot;preserve-content&quot;&gt;yarn global add @wcfactory/cli
-yarn global add polymer-cli
-yarn global add lerna&lt;/template&gt;
-&lt;/code-sample&gt;
-&lt;h2&gt;Do I need to publish this to NPM?&lt;/h2&gt;
-&lt;p&gt;Yes and No. We highly recommend publishing your elements to NPM as part of your build process and quality assurance. That doesn&#39;t always make sense to get off the ground so here&#39;s what you can do to get &quot;building&quot; without NPM.&lt;/p&gt;
-&lt;code-sample style=&quot;width: 100%;&quot;&gt;  &lt;template preserve-content=&quot;preserve-content&quot;&gt;# assuming your factory name is ourelements
-# also assuming you have your company installed in ~/Documents/company
-wcf build
-# answer the prompts, assuming name of the build is mybuild
-# this will fail but it&#39;s ok
-cd ~/Documents/company/builds/mybuild
-ln -s ../../factories/ourelements/node_modules/
-polymer build
-# Now you&#39;ll have the buidl satisfied without publishing to NPM&lt;/template&gt;
-&lt;/code-sample&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Multiple components in one repo</title>
-    <link href="wcfactory.js.org/content/multiple-components-1-element/"/>
-    <updated>2024-08-02T22:20:09.693+00:00</updated>
-    <id>wcfactory.js.org/content/multiple-components-1-element/</id>
-    <content type="html">&lt;p&gt;Let&#39;s say you&#39;ve made an element and now you want to add another one.&lt;/p&gt;
-&lt;p&gt;If the element is related or integral to the success of the first element, you might want to consider grouping it in the same &quot;element&quot; for publishing. The ELMSLN team does this all the time via the &quot;lib&quot; convention&lt;/p&gt;
-&lt;media-image source=&quot;files/scale-50/foldertree.jpg&quot; caption=&quot;Folder tree, lib directory shown with an additional .js file&quot; size=&quot;wide&quot; card=&quot;&quot; resource=&quot;#63c36fe5-0fbe-b0b7-d1f7&quot; prefix=&quot;oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org &quot; style=&quot;width: 75%;&quot;&gt;&lt;/media-image&gt;
-&lt;p&gt;By placing these sub-elements in the lib directory you lose out on the separation of concerns / tooling capabilities of the yarn start command but you gain simplicity of managing many related elements.&lt;/p&gt;
-&lt;p&gt;We recommend making the lib directory if you generate an abstraction from the element as your working on it via the tooling. The tooling is there to help ease you into the workflow and keep things abstracted into MVC, but it doesn&#39;t mean you need to be constrained by it!&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Terms</title>
-    <link href="wcfactory.js.org/content/terms/"/>
-    <updated>2024-08-02T22:20:09.693+00:00</updated>
-    <id>wcfactory.js.org/content/terms/</id>
-    <content type="html">&lt;p&gt;Web component - a four part meta-specification of the browser that allows us to build self contained, scoped, valid HTML tags by extending the HTMLElement as a class based object of the browser.&lt;/p&gt;
-&lt;wikipedia-query show-title=&quot;&quot; search=&quot;Web Components&quot; render-as=&quot;content&quot; __rendercontent=&quot;&quot; __now=&quot;4/4/2019&quot; style=&quot;width: 50%;&quot;&gt;&lt;/wikipedia-query&gt;
-&lt;p&gt;Monorepo - A singular repository in version control which is for the creation and orchestration of many smaller projects. A meta-project in a single repository to simplify check out.&lt;/p&gt;
-&lt;wikipedia-query show-title=&quot;&quot; search=&quot;Monorepo&quot; render-as=&quot;content&quot; __rendercontent=&quot;&quot; __now=&quot;4/4/2019&quot; style=&quot;width: 50%;&quot;&gt;&lt;/wikipedia-query&gt;
-&lt;p&gt;Polyfill - Javascript loaded into the browser to teach it out to behave like newer standards prior to that platform adopting them. Polyfills are only needed on Edge (&lt;a href=&quot;https://www.digitaltrends.com/computing/chromium-microsoft-edge-browser-preview-download/&quot;&gt;though not soon&lt;/a&gt;
-&lt;/p&gt;&lt;p&gt;), IE 11 and some older versions of ever green browsers (generally 2012 through 2017).&lt;/p&gt;
-&lt;wikipedia-query style=&quot;width: 50%;&quot; show-title=&quot;&quot; search=&quot;Polyfill_(programming)&quot; render-as=&quot;content&quot; __rendercontent=&quot;&quot; __now=&quot;4/4/2019&quot;&gt;&lt;/wikipedia-query&gt;&lt;p&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Tutorials</title>
-    <link href="wcfactory.js.org/content/tutorials/"/>
-    <updated>2024-08-02T22:20:09.693+00:00</updated>
-    <id>wcfactory.js.org/content/tutorials/</id>
-    <content type="html">&lt;p&gt;Here&#39;s a playlist we&#39;ll update with videos related to WCfactory&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/OeGZHjOoicA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-</content>
-  </entry>
-  
-  <entry>
     <title>New to web components?</title>
-    <link href="wcfactory.js.org/content/tutorials/new-to-web-components/"/>
-    <updated>2024-08-02T22:20:09.693+00:00</updated>
-    <id>wcfactory.js.org/content/tutorials/new-to-web-components/</id>
-    <content type="html">&lt;p&gt;If you are new to web components and front end development in general, you may want to consider using &lt;a href=&quot;https://open-wc.org/guide/&quot;&gt;Open WC tooling&lt;/a&gt;
- instead.&lt;/p&gt;
-&lt;p&gt;Open WC is a community dedicated to documentation, tooling and guides associated with web components more generally. It&#39;s a great place to start if you are just trying to make a few elements or if you want to build elements for use in your first project.&lt;/p&gt;
-&lt;p&gt;WCFactory is what you&#39;ll want to invest time in once you&#39;ve gotten enough elements that you need a way of managing them all, and managing them across projects / teams. For just getting started though, give Open WC a shot, you won&#39;t regret it!&lt;/p&gt;
+    <link href="wcfactory.js.org/content/new-to-web-components/"/>
+    <updated>2024-10-11T15:05:42.616+00:00</updated>
+    <id>wcfactory.js.org/content/new-to-web-components/</id>
+    <content type="html">&lt;p&gt;If you are new to web components and front end development in general, you may want to consider using &lt;a href=&quot;https://github.com/haxtheweb/create&quot;&gt;HAX CLI&lt;/a&gt;.&lt;/p&gt;
+&lt;code-sample&gt;
+&lt;template&gt;
+npm init @haxtheweb
+&lt;/template&gt;
+&lt;/code-sample&gt;
 </content>
   </entry>
   
   <entry>
     <title>Reusing web components</title>
     <link href="wcfactory.js.org/content/using-existing-web-components/"/>
-    <updated>2024-08-02T22:20:09.693+00:00</updated>
+    <updated>2024-10-11T15:05:42.616+00:00</updated>
     <id>wcfactory.js.org/content/using-existing-web-components/</id>
     <content type="html">&lt;p&gt;So you want to leverage all that goodness from web components [dot] org huh? Awesome! There&#39;s a minor thing you need to do differently from typical yarn repos you might be used to.&lt;/p&gt;
 &lt;p&gt;Because this is a monorepo and we&#39;re optimizing for file space, you need to always do installations from the monorepo (factory) root. Here&#39;s the workflow for adding elements from webcomponents.org / other npm repos&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;find something you like, like @lrnwebcomponents/code-editor&lt;/li&gt;
+&lt;ul&gt;&lt;li&gt;find something you like, like @haxtheweb/code-editor&lt;/li&gt;
 &lt;li&gt;go to the element you want to use this in and add it manually to the package.json (&lt;b&gt;&lt;i&gt;factories/my-factory/elements/my-element/package.json&lt;/i&gt;
 &lt;/b&gt;
 )&lt;/li&gt;
@@ -160,23 +79,6 @@ polymer build
 &lt;p&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;This is a little annoying (&lt;i&gt;&lt;b&gt;ehhh what&#39;s up doc&lt;/b&gt;
 &lt;/i&gt;
 ) for sure but VS Code plugins help ensure that you add things to the package.json of the correct version in the dependencies block. All of our element library implementations have a dependencies and devDependencies block automatically.&lt;/span&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Workflow</title>
-    <link href="wcfactory.js.org/content/workflow/"/>
-    <updated>2024-08-02T22:20:09.693+00:00</updated>
-    <id>wcfactory.js.org/content/workflow/</id>
-    <content type="html">&lt;h2&gt;wcf element&lt;/h2&gt;
-&lt;p&gt;When it&#39;s finished, go into the &lt;b&gt;elements/element-name&lt;/b&gt;
- directory and run &lt;b&gt;&lt;i&gt;yarn start&lt;/i&gt;
-&lt;/b&gt;
-. Then open it in a code editor and work within the &lt;b&gt;elements/element-name/src&lt;/b&gt;
- directory&lt;/p&gt;
-&lt;h2&gt;yarn start (monorepo level)&lt;/h2&gt;
-&lt;p&gt;At the factory level you can also run yarn start which will invoke your storybook to build for previewing locally. Make sure all your elements exist (or that you have some in general). Also, be aware that after you stop your storybook you&#39;ll need to run yarn install again. &lt;a href=&quot;https://github.com/elmsln/WCFactory/issues/504#issuecomment-484545199&quot;&gt;This is a known issue without a real way around it currently.&lt;/a&gt;
-&lt;/p&gt;
 </content>
   </entry>
 </feed>
